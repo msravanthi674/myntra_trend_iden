@@ -1,0 +1,1007 @@
+user_id,item_id,items,gender,category,pattern,color,gender,genre,material,sales_count,reviews_count,average_rating,out_of_stock_times,brand,discount,last_stock_date,wish_list_count,month_of_sale,year_of_sale
+1,1,Summer Blouse,Female,Tops,Floral,Yellow,Adult,Summer,Cotton,42,35,4.3,1,Balmain,10,7/15/2024,29,7,2024
+2,2,Autumn Coat,Female,Jackets,Plaid,Red,Adult,Autumn,Wool,45,38,4.6,0,Marc Jacobs,5,11/15/2023,32,11,2023
+3,3,Winter Pants,Female,Pants,Faux Leather,Black,Adult,Winter,Polyester,47,39,4.5,1,Saint Laurent,10,3/15/2024,36,3,2024
+4,4,Spring Shirt,Female,Tops,Striped,Blue,Teen,Spring,Cotton,41,33,4.4,0,Alexander McQueen,5,5/15/2024,28,5,2024
+5,5,Summer Shorts,Female,Bottoms,Gingham,White,Adult,Summer,Cotton,44,36,4.5,0,Prada,5,9/15/2024,31,9,2024
+6,6,Autumn Skirt,Female,Skirts,Tartan,Green,Adult,Autumn,Wool,43,37,4.6,1,Burberry,10,12/15/2023,29,12,2023
+7,7,Winter Hat,Female,Accessories,Fur,Gray,Adult,Winter,Wool,46,38,4.4,0,Dior,5,2/15/2024,33,2,2024
+8,8,Spring Dress,Female,Dresses,Floral,Pink,Teen,Spring,Silk,49,39,4.5,1,Armani,10,6/15/2024,36,6,2024
+9,9,Summer Blazer,Female,Jackets,Gingham,Black,Adult,Summer,Polyester,45,38,4.6,0,Versace,5,8/15/2024,32,8,2024
+10,10,Autumn Blouse,Female,Tops,Plaid,Red,Adult,Autumn,Silk,48,39,4.5,1,Louis Vuitton,10,10/15/2023,36,10,2023
+11,11,Winter Cardigan,Female,Sweaters,Cable Knit,White,Adult,Winter,Wool,47,38,4.4,0,Valentino,5,1/15/2024,33,1,2024
+12,12,Spring Jacket,Female,Jackets,Denim,Blue,Teen,Spring,Cotton,43,37,4.6,1,Calvin Klein,10,4/15/2024,29,4,2024
+13,13,Summer Dress,Female,Dresses,Stripes,Yellow,Adult,Summer,Linen,44,36,4.5,0,Miu Miu,5,7/15/2024,31,7,2024
+14,14,Autumn Trousers,Female,Bottoms,Floral,Brown,Adult,Autumn,Cotton,43,37,4.6,1,Gucci,10,11/15/2023,29,11,2023
+15,15,Winter Cardigan,Female,Sweaters,Fair Isle,Red,Adult,Winter,Wool,46,38,4.4,0,Balenciaga,5,3/15/2024,33,3,2024
+16,16,Spring Jacket,Female,Jackets,Denim,Green,Teen,Spring,Cotton,45,38,4.5,0,Chanel,10,5/15/2024,32,5,2024
+17,17,Summer Skirt,Female,Skirts,Polka Dots,Black,Adult,Summer,Polyester,44,36,4.5,0,Saint Laurent,5,6/15/2024,31,6,2024
+18,18,Autumn Top,Female,Tops,Lace,Pink,Adult,Autumn,Silk,43,37,4.6,1,Alexander McQueen,10,12/15/2023,29,12,2023
+19,19,Winter Boots,Female,Shoes,Fur,White,Adult,Winter,Leather,47,38,4.4,0,Ralph Lauren,5,2/15/2024,33,2,2024
+20,20,Spring Pants,Female,Bottoms,Corduroy,Blue,Teen,Spring,Cotton,43,37,4.6,1,Versace,10,4/15/2024,29,4,2024
+21,21,Summer Hat,Female,Accessories,Straw,Beige,Adult,Summer,Straw,44,36,4.5,0,Givenchy,5,8/15/2024,31,8,2024
+22,22,Autumn Jacket,Female,Jackets,Leather,Burgundy,Adult,Autumn,Leather,43,37,4.6,1,Dior,10,10/15/2023,29,10,2023
+23,23,Winter Blouse,Female,Tops,Satin,Gold,Adult,Winter,Silk,46,38,4.4,0,Fendi,5,1/15/2024,33,1,2024
+24,24,Spring Coat,Female,Jackets,Tweed,Gray,Adult,Spring,Wool,45,38,4.5,0,Bottega Veneta,10,6/15/2024,32,6,2024
+25,25,Summer Dress,Female,Dresses,Floral,Pink,Adult,Summer,Cotton,44,36,4.5,0,Chanel,5,7/15/2024,31,7,2024
+26,26,Autumn Skirt,Female,Skirts,Tartan,Red,Adult,Autumn,Wool,43,37,4.6,1,Gucci,10,11/15/2023,29,11,2023
+27,27,Winter Jacket,Female,Jackets,Fleece,Green,Adult,Winter,Polyester,47,38,4.4,0,Prada,5,3/15/2024,33,3,2024
+28,28,Spring Blouse,Female,Tops,Stripes,Yellow,Teen,Spring,Linen,43,37,4.6,1,Balenciaga,10,5/15/2024,29,5,2024
+29,29,Summer Top,Female,Tops,Lace,White,Adult,Summer,Silk,44,36,4.5,0,Miu Miu,5,9/15/2024,31,9,2024
+30,30,Autumn Hat,Female,Accessories,Felt,Brown,Adult,Autumn,Felt,43,37,4.6,1,Valentino,10,12/15/2023,29,12,2023
+31,31,Winter Coat,Female,Jackets,Puffer,Blue,Adult,Winter,Down,46,38,4.4,0,Celine,5,2/15/2024,33,2,2024
+32,32,Spring Pants,Female,Bottoms,Denim,Black,Teen,Spring,Cotton,43,37,4.6,1,Saint Laurent,10,4/15/2024,29,4,2024
+33,33,Summer Dress,Female,Dresses,Solid,Red,Adult,Summer,Polyester,44,36,4.5,0,Burberry,5,10/15/2024,31,10,2024
+34,34,Autumn Jacket,Female,Jackets,Shearling,Burgundy,Adult,Autumn,Leather,43,37,4.6,1,Balmain,10,10/15/2023,29,10,2023
+35,35,Winter Hat,Female,Accessories,Wool,Black,Adult,Winter,Wool,44,36,4.5,0,Giorgio Armani,5,1/15/2024,31,1,2024
+36,36,Spring Blouse,Female,Tops,Floral,Pink,Teen,Spring,Cotton,43,37,4.6,1,Alexander Wang,10,6/15/2024,29,6,2024
+37,37,Summer Skirt,Female,Bottoms,Stripes,Blue,Adult,Summer,Cotton,44,36,4.5,0,Prada,5,7/15/2024,31,7,2024
+38,38,Autumn Dress,Female,Dresses,Solid,Green,Adult,Autumn,Silk,43,37,4.6,1,Chanel,10,11/15/2023,29,11,2023
+39,39,Winter Cardigan,Female,Tops,Knit,Grey,Adult,Winter,Wool,44,36,4.5,0,Gucci,5,3/15/2024,31,3,2024
+40,40,Spring Blazer,Female,Jackets,Check,Black,Teen,Spring,Polyester,43,37,4.6,1,Versace,10,5/15/2024,29,5,2024
+41,41,Summer Trousers,Female,Bottoms,Solid,White,Adult,Summer,Linen,44,36,4.5,0,Fendi,5,8/15/2024,31,8,2024
+42,42,Autumn Shirt,Female,Tops,Gingham,Red,Adult,Autumn,Cotton,43,37,4.6,1,Saint Laurent,10,12/15/2023,29,12,2023
+43,43,Winter Jumpsuit,Female,Outfits,Print,Purple,Adult,Winter,Velvet,44,36,4.5,0,Dior,5,1/15/2024,31,1,2024
+44,44,Spring Jacket,Female,Jackets,Denim,Blue,Teen,Spring,Denim,43,37,4.6,1,Balenciaga,10,6/15/2024,29,6,2024
+45,45,Summer Tunic,Female,Tops,Lace,Yellow,Adult,Summer,Silk,44,36,4.5,0,Valentino,5,9/15/2024,31,9,2024
+46,46,Autumn Pants,Female,Bottoms,Floral,Green,Adult,Autumn,Wool,43,37,4.6,1,Chanel,10,10/15/2023,29,10,2023
+47,47,Winter Coat,Female,Jackets,Fur,Black,Adult,Winter,Fur,44,36,4.5,0,Giorgio Armani,5,2/15/2024,31,2,2024
+48,48,Spring Skirt,Female,Bottoms,Polka Dots,Red,Teen,Spring,Cotton,43,37,4.6,1,Alexander Wang,10,4/15/2024,29,4,2024
+49,49,Summer Dress,Female,Outfits,Striped,Blue,Adult,Summer,Cotton,43,37,4.6,0,Prada,5,7/15/2024,29,7,2024
+50,50,Autumn Blouse,Female,Tops,Checkered,Gray,Adult,Autumn,Silk,44,36,4.5,1,Versace,10,11/15/2023,31,11,2023
+51,51,Winter Sweater,Female,Tops,Knit,Brown,Adult,Winter,Wool,43,37,4.6,0,Gucci,5,3/15/2024,29,3,2024
+52,52,Spring Jacket,Female,Jackets,Leather,Green,Teen,Spring,Leather,44,36,4.5,1,Miu Miu,10,5/15/2024,31,5,2024
+53,53,Summer Skirt,Female,Bottoms,Floral,Pink,Adult,Summer,Linen,43,37,4.6,0,Ralph Lauren,5,10/15/2024,29,10,2024
+54,54,Autumn Trousers,Female,Bottoms,Solid,Black,Adult,Autumn,Velvet,44,36,4.5,1,Balmain,10,12/15/2023,31,12,2023
+55,55,Winter Coat,Female,Jackets,Fur,White,Adult,Winter,Fur,43,37,4.6,0,Valentino,5,2/15/2024,29,2,2024
+56,56,Spring Blouse,Female,Tops,Lace,Yellow,Teen,Spring,Silk,44,36,4.5,1,Dior,10,6/15/2024,31,6,2024
+57,57,Summer Tunic,Female,Tops,Geometric,Orange,Adult,Summer,Cotton,43,37,4.6,0,Calvin Klein,5,8/15/2024,29,8,2024
+58,58,Autumn Jacket,Female,Jackets,Denim,Blue,Adult,Autumn,Denim,43,36,4.5,1,Tom Ford,10,10/15/2023,31,10,2023
+59,59,Winter Pants,Female,Bottoms,Print,Red,Adult,Winter,Velvet,43,36,4.6,0,Jimmy Choo,5,1/15/2024,29,1,2024
+60,60,Spring Dress,Female,Outfits,Polka Dots,Green,Teen,Spring,Cotton,44,36,4.5,1,Michael Kors,10,4/15/2024,31,4,2024
+61,61,Summer Blouse,Female,Tops,Striped,Blue,Adult,Summer,Cotton,45,38,4.7,0,Alexander McQueen,5,7/15/2024,32,7,2024
+62,62,Autumn Dress,Female,Outfits,Solid,Grey,Teen,Autumn,Satin,42,35,4.4,1,Givenchy,10,11/15/2023,30,11,2023
+63,63,Winter Jacket,Female,Jackets,Faux Leather,Brown,Adult,Winter,Faux Leather,46,39,4.8,0,Chanel,5,3/15/2024,33,3,2024
+64,64,Spring Skirt,Female,Bottoms,Floral,Pink,Adult,Spring,Linen,47,40,4.6,1,Prada,10,5/15/2024,34,5,2024
+65,65,Summer Tunic,Female,Tops,Geometric,Orange,Adult,Summer,Silk,48,41,4.7,0,Versace,5,9/15/2024,35,9,2024
+66,66,Autumn Trousers,Female,Bottoms,Print,Red,Adult,Autumn,Velvet,49,42,4.5,1,Louis Vuitton,10,12/15/2023,36,12,2023
+67,67,Winter Coat,Female,Jackets,Fur,White,Adult,Winter,Fur,45,43,4.8,0,Gucci,5,2/15/2024,37,2,2024
+68,68,Spring Blouse,Female,Tops,Lace,Yellow,Teen,Spring,Silk,46,44,4.7,1,Celine,10,6/15/2024,38,6,2024
+69,69,Summer Skirt,Female,Bottoms,Floral,Green,Adult,Summer,Linen,47,45,4.6,0,Saint Laurent,5,10/15/2024,39,10,2024
+70,70,Autumn Jacket,Female,Jackets,Denim,Blue,Adult,Autumn,Denim,48,46,4.5,1,Balenciaga,10,11/15/2023,40,11,2023
+71,71,Winter Pants,Female,Bottoms,Print,Black,Adult,Winter,Velvet,49,47,4.6,0,Fendi,5,1/15/2024,41,1,2024
+72,72,Spring Dress,Female,Outfits,Polka Dots,White,Teen,Spring,Cotton,45,43,4.8,1,Dior,10,4/15/2024,42,4,2024
+73,73,Summer Maxi Dress,Female,Outfits,Striped,Blue,Adult,Summer,Cotton,48,44,4.6,0,Chanel,5,7/15/2024,43,7,2024
+74,74,Autumn Blouse,Female,Tops,Lace,Pink,Adult,Autumn,Silk,47,45,4.8,1,Hermes,10,8/15/2023,44,8,2023
+75,75,Winter Cardigan,Female,Jackets,Knit,Grey,Adult,Winter,Wool,46,43,4.7,0,Givenchy,5,3/15/2024,45,3,2024
+76,76,Spring Skirt,Female,Bottoms,Plaid,Red,Teen,Spring,Polyester,47,45,4.6,1,Valentino,10,5/15/2024,46,5,2024
+77,77,Summer Tunic,Female,Tops,Floral,Green,Adult,Summer,Linen,48,44,4.5,0,Burberry,5,6/15/2024,47,6,2024
+78,78,Autumn Jacket,Female,Jackets,Leather,Brown,Adult,Autumn,Leather,47,45,4.7,1,Saint Laurent,10,10/15/2023,46,10,2023
+79,79,Winter Trousers,Female,Bottoms,Print,Black,Adult,Winter,Velvet,48,44,4.6,0,Prada,5,2/15/2024,45,2,2024
+80,80,Spring Blouse,Female,Tops,Lace,White,Teen,Spring,Silk,46,43,4.8,1,Ralph Lauren,10,4/15/2024,44,4,2024
+81,81,Summer Skirt,Female,Bottoms,Geometric,Orange,Adult,Summer,Silk,45,41,4.7,0,Alexander McQueen,5,8/15/2024,42,8,2024
+82,82,Autumn Trousers,Female,Bottoms,Print,Red,Adult,Autumn,Velvet,46,43,4.5,1,Balmain,10,12/15/2023,41,12,2023
+83,83,Winter Coat,Female,Jackets,Fur,White,Adult,Winter,Fur,44,40,4.8,0,Miu Miu,5,1/15/2024,43,1,2024
+84,84,Spring Blouse,Female,Tops,Lace,Yellow,Teen,Spring,Silk,46,43,4.7,1,Celine,10,4/15/2024,44,4,2024
+85,85,Summer Dress,Female,Dresses,Striped,Blue,Adult,Summer,Cotton,48,44,4.6,0,Chanel,5,7/15/2024,47,7,2024
+86,86,Autumn Scarf,Female,Accessories,Knit,Gray,Adult,Autumn,Wool,47,45,4.8,1,Givenchy,10,11/15/2023,46,11,2023
+87,87,Winter Hat,Female,Accessories,Plaid,Red,Adult,Winter,Wool,48,44,4.5,0,Valentino,5,3/15/2024,45,3,2024
+88,88,Spring Blazer,Female,Jackets,Solid,Green,Adult,Spring,Wool,46,43,4.7,1,Versace,10,5/15/2024,44,5,2024
+89,89,Summer Sandals,Female,Shoes,Animal Print,Brown,Adult,Summer,Leather,45,41,4.6,0,Gucci,5,9/15/2024,42,9,2024
+90,90,Autumn Boots,Female,Shoes,Patterned,Black,Adult,Autumn,Leather,46,43,4.5,1,Saint Laurent,10,12/15/2023,41,12,2023
+91,91,Winter Tights,Female,Accessories,Solid,Black,Adult,Winter,Nylon,48,44,4.8,0,Balmain,5,2/15/2024,45,2,2024
+92,92,Spring Sneakers,Female,Shoes,Solid,White,Teen,Spring,Leather,46,43,4.7,1,Prada,10,4/15/2024,44,4,2024
+93,93,Summer Tunic,Female,Tops,Print,Pink,Adult,Summer,Cotton,48,44,4.5,0,Burberry,5,6/15/2024,47,6,2024
+94,94,Autumn Jacket,Female,Jackets,Leather,Brown,Adult,Autumn,Leather,47,45,4.7,1,Saint Laurent,10,10/15/2023,46,10,2023
+95,95,Winter Trousers,Female,Bottoms,Print,Red,Adult,Winter,Velvet,48,44,4.6,0,Prada,5,2/15/2024,45,2,2024
+96,96,Spring Blouse,Female,Tops,Lace,White,Teen,Spring,Silk,46,43,4.8,1,Ralph Lauren,10,4/15/2024,44,4,2024
+97,97,Summer Dress,Female,Dresses,Floral,Blue,Adult,Summer,Cotton,47,45,4.6,1,Chanel,5,7/15/2024,46,7,2024
+98,98,Autumn Skirt,Female,Bottoms,Solid,Black,Adult,Autumn,Wool,48,44,4.7,0,Dior,10,11/15/2023,45,11,2023
+99,99,Winter Cardigan,Female,Outerwear,Knit,Grey,Adult,Winter,Cashmere,47,45,4.6,1,Versace,5,3/15/2024,46,3,2024
+100,100,Spring Blazer,Female,Jackets,Solid,Green,Adult,Spring,Linen,46,43,4.8,0,Givenchy,10,5/15/2024,44,5,2024
+101,101,Summer Shorts,Female,Bottoms,Striped,Red,Teen,Summer,Cotton,48,44,4.5,1,Michael Kors,5,6/15/2024,47,6,2024
+102,102,Autumn Coat,Female,Outerwear,Fur,Brown,Adult,Autumn,Faux Fur,47,45,4.7,0,Valentino,10,9/15/2023,46,9,2023
+103,103,Winter Pants,Female,Bottoms,Solid,Black,Adult,Winter,Velvet,48,44,4.6,1,Saint Laurent,5,2/15/2024,45,2,2024
+104,104,Spring Scarf,Female,Accessories,Paisley,Pink,Adult,Spring,Silk,46,43,4.8,0,Gucci,10,4/15/2024,44,4,2024
+105,105,Summer Skirt,Female,Bottoms,Animal Print,Black,Adult,Summer,Leather,47,45,4.6,1,Burberry,5,8/15/2024,46,8,2024
+106,106,Autumn Top,Female,Tops,Lace,White,Adult,Autumn,Silk,48,44,4.7,0,Prada,10,10/15/2023,45,10,2023
+107,107,Winter Cardigan,Female,Outerwear,Knit,Grey,Adult,Winter,Cashmere,47,45,4.6,1,Versace,5,3/15/2024,46,3,2024
+108,108,Spring Blazer,Female,Jackets,Solid,Green,Adult,Spring,Linen,46,43,4.8,0,Givenchy,10,5/15/2024,44,5,2024
+109,109,Winter Boots,Female,Footwear,Fur,Black,Adult,Winter,Faux Fur,49,46,4.7,0,Balenciaga,10,1/15/2024,48,1,2024
+110,110,Spring Hat,Female,Accessories,Floral,Pink,Teen,Spring,Cotton,45,42,4.5,1,Chanel,5,4/15/2024,44,4,2024
+111,111,Summer Dress,Female,Tops,Floral,Yellow,Adult,Summer,Linen,47,44,4.6,0,Dior,10,7/15/2024,46,7,2024
+112,112,Autumn Jacket,Female,Jackets,Leopard Print,Brown,Adult,Autumn,Wool,48,45,4.7,1,Alexander McQueen,5,11/15/2023,47,11,2023
+113,113,Winter Coat,Female,Outerwear,Fur,White,Adult,Winter,Real Fur,49,46,4.8,0,Fendi,10,2/15/2024,48,2,2024
+114,114,Spring Blouse,Female,Tops,Striped,Blue,Adult,Spring,Silk,46,43,4.7,1,Valentino,5,6/15/2024,45,6,2024
+115,115,Summer Jumpsuit,Female,Bottoms,Solid,Red,Adult,Summer,Cotton,47,44,4.6,0,Gucci,10,9/15/2024,46,9,2024
+116,116,Autumn Skirt,Female,Bottoms,Tartan,Green,Adult,Autumn,Wool,48,45,4.7,1,Michael Kors,5,12/15/2023,47,12,2023
+117,117,Winter Sweater,Female,Tops,Knit,Grey,Adult,Winter,Cashmere,49,46,4.8,0,Burberry,10,1/15/2024,48,1,2024
+118,118,Spring Blazer,Female,Jackets,Floral,Pink,Adult,Spring,Silk,47,44,4.7,1,Prada,5,5/15/2024,46,5,2024
+119,119,Summer Shirt,Female,Tops,Striped,Blue,Adult,Summer,Cotton,46,43,4.5,0,Chanel,10,8/15/2024,44,8,2024
+120,120,Autumn Dress,Female,Tops,Lace,White,Adult,Autumn,Silk,48,45,4.6,1,Versace,5,10/15/2023,47,10,2023
+121,121,Spring Jacket,Female,Outerwear,Floral,Pink,Adult,Spring,Silk,45,42,4.7,1,Chanel,5,4/15/2024,43,4,2024
+122,122,Summer Skirt,Female,Bottoms,Polka Dots,Black,Adult,Summer,Cotton,47,44,4.6,0,Michael Kors,10,7/15/2024,46,7,2024
+123,123,Autumn Blouse,Female,Tops,Plaid,Red,Adult,Autumn,Wool,48,45,4.7,1,Versace,5,11/15/2023,47,11,2023
+124,124,Winter Dress,Female,Tops,Velvet,Green,Adult,Winter,Satin,49,46,4.8,0,Fendi,10,3/15/2024,48,3,2024
+125,125,Spring Suit,Female,Bottoms,Solid,Blue,Adult,Spring,Cotton,47,44,4.7,1,Gucci,5,5/15/2024,46,5,2024
+126,126,Summer Blouse,Female,Tops,Lace,White,Adult,Summer,Silk,45,42,4.6,0,Burberry,10,6/15/2024,44,6,2024
+127,127,Autumn Jacket,Female,Outerwear,Fur,Brown,Adult,Autumn,Real Fur,48,45,4.7,1,Prada,5,12/15/2023,47,12,2023
+128,128,Winter Pants,Female,Bottoms,Solid,Black,Adult,Winter,Wool,49,46,4.8,0,Valentino,10,1/15/2024,48,1,2024
+129,129,Spring Jumpsuit,Female,Bottoms,Striped,Yellow,Adult,Spring,Cotton,47,44,4.7,1,Chanel,5,4/15/2024,46,4,2024
+130,130,Summer Blouse,Female,Tops,Floral,Pink,Adult,Summer,Silk,45,42,4.6,0,Michael Kors,10,7/15/2024,44,7,2024
+131,131,Autumn Coat,Female,Outerwear,Tartan,Green,Adult,Autumn,Wool,48,45,4.7,1,Fendi,5,11/15/2023,47,11,2023
+132,132,Winter Skirt,Female,Bottoms,Polka Dots,Red,Adult,Winter,Cotton,49,46,4.8,0,Versace,10,3/15/2024,48,3,2024
+133,133,Spring Dress,Female,Dresses,Floral,Pink,Teen,Spring,Cotton,34,31,4.6,0,Zara,10,5/15/2023,33,5,2023
+134,134,Summer Tank Top,Female,Tops,Striped,Blue,Adult,Summer,Polyester,45,42,4.7,1,H&M,5,6/15/2024,44,6,2024
+135,135,Autumn Scarf,Female,Accessories,Plain,Gray,Adult,Autumn,Wool,38,35,4.8,0,Uniqlo,10,10/15/2023,37,10,2023
+136,136,Winter Boots,Female,Footwear,Leather,Black,Adult,Winter,Leather,36,33,4.7,1,Dr. Martens,5,1/15/2024,35,1,2024
+137,137,Spring Cardigan,Female,Outerwear,Cable Knit,White,Adult,Spring,Wool,39,36,4.6,0,Mango,10,4/15/2023,38,4,2023
+138,138,Summer Skirt,Female,Bottoms,Pleated,Red,Teen,Summer,Polyester,35,32,4.5,0,Forever 21,5,7/15/2024,34,7,2024
+139,139,Autumn Blouse,Female,Tops,Lace,White,Adult,Autumn,Silk,41,38,4.8,1,Cole Haan,10,11/15/2023,40,11,2023
+140,140,Winter Jacket,Female,Outerwear,Fur,Brown,Adult,Winter,Real Fur,43,39,4.9,0,Gucci,5,2/15/2024,42,2,2024
+141,141,Spring Jumpsuit,Female,Bottoms,Solid,Green,Adult,Spring,Cotton,42,39,4.7,1,Zara,10,5/15/2023,41,5,2023
+142,142,Summer Top,Female,Tops,Printed,Blue,Teen,Summer,Polyester,33,30,4.4,0,H&M,5,6/15/2024,32,6,2024
+143,143,Autumn Coat,Female,Outerwear,Tartan,Red,Adult,Autumn,Wool,44,39,4.8,1,Uniqlo,10,10/15/2023,43,10,2023
+144,144,Winter Hat,Female,Accessories,Knitted,Black,Adult,Winter,Wool,37,34,4.6,0,Dr. Martens,5,1/15/2024,36,1,2024
+145,145,Summer Dress,Female,Dresses,Floral,Yellow,Adult,Summer,Cotton,40,37,4.7,0,Asos,10,7/15/2023,42,7,2023
+146,146,Autumn Skirt,Female,Bottoms,Tweed,Burgundy,Adult,Autumn,Wool,45,38,4.8,1,Anna Sui,10,12/15/2023,44,12,2023
+147,147,Winter Boots,Female,Footwear,Fur,Beige,Adult,Winter,Real Fur,48,39,4.9,0,Prada,5,3/15/2024,47,3,2024
+148,148,Spring Hat,Female,Accessories,Straw,Pink,Adult,Spring,Straw,38,35,4.5,0,Mulberry,10,4/15/2023,37,4,2023
+149,149,Summer Trousers,Female,Bottoms,Linen,Blue,Teen,Summer,Linen,36,33,4.4,0,Topshop,5,7/15/2024,35,7,2024
+150,150,Autumn Blazer,Female,Outerwear,Tartan,Green,Adult,Autumn,Wool,42,38,4.7,1,Reiss,10,11/15/2023,41,11,2023
+151,151,Winter Scarf,Female,Accessories,Wool,Gray,Adult,Winter,Wool,39,36,4.6,0,Zara,5,2/15/2024,38,2,2024
+152,152,Spring Coat,Female,Outerwear,Corduroy,Red,Adult,Spring,Corduroy,43,39,4.8,1,Ralph Lauren,10,5/15/2023,42,5,2023
+153,153,Summer Jacket,Female,Outerwear,Denim,Black,Adult,Summer,Denim,44,39,4.8,0,Levi's,10,6/15/2024,43,6,2024
+154,154,Autumn Pants,Female,Bottoms,Plaid,Burgundy,Adult,Autumn,Wool,46,39,4.7,1,Calvin Klein,10,10/15/2023,45,10,2023
+155,155,Winter Cardigan,Female,Outerwear,Cable Knit,White,Adult,Winter,Wool,45,38,4.7,1,J.Crew,10,1/15/2024,44,1,2024
+156,156,Spring Blouse,Female,Tops,Lace,Pink,Adult,Spring,Silk,43,38,4.8,0,Alexander McQueen,10,4/15/2023,42,4,2023
+157,157,Summer Dress,Female,Dresses,Floral,Yellow,Teen,Summer,Cotton,41,37,4.5,0,H&M,5,7/15/2024,39,7,2024
+158,158,Autumn Skirt,Female,Bottoms,Leopard,Brown,Adult,Autumn,Leather,45,38,4.6,1,Mango,10,11/15/2023,43,11,2023
+159,159,Winter Hat,Female,Accessories,Fur,Black,Adult,Winter,Fur,44,36,4.4,0,Gucci,5,3/15/2024,42,3,2024
+160,160,Spring Shirt,Female,Tops,Striped,Blue,Adult,Spring,Silk,47,39,4.7,1,Zara,10,6/15/2023,46,6,2023
+161,161,Summer Jumpsuit,Female,Dresses,Solid,Red,Adult,Summer,Linen,48,39,4.8,0,Prada,5,8/15/2024,47,8,2024
+162,162,Autumn Jacket,Female,Outerwear,Quilted,Gray,Adult,Autumn,Down,49,38,4.7,1,Valentino,10,12/15/2023,48,12,2023
+163,163,Winter Tights,Female,Accessories,Lace,Black,Adult,Winter,Nylon,42,36,4.5,0,Versace,5,2/15/2024,40,2,2024
+164,164,Spring Pants,Female,Bottoms,Corduroy,Green,Adult,Spring,Corduroy,46,39,4.6,1,Celine,10,5/15/2023,44,5,2023
+165,165,Summer Cardigan,Female,Outerwear,Paisley,Pink,Adult,Summer,Cotton,43,37,4.4,0,Balenciaga,5,9/15/2024,41,9,2024
+166,166,Autumn Blouse,Female,Tops,Lace,White,Adult,Autumn,Silk,47,39,4.7,1,Fendi,10,10/15/2023,46,10,2023
+167,167,Winter Scarf,Female,Accessories,Wool,Red,Adult,Winter,Wool,44,36,4.6,0,Chanel,5,1/15/2024,42,1,2024
+168,168,Spring Coat,Female,Outerwear,Tartan,Green,Adult,Spring,Wool,49,38,4.7,1,Burberry,10,4/15/2023,48,4,2023
+169,169,Summer Dress with Flowy Sleeves,Female,Dresses,Floral,Blue,Adult,Summer,Cotton,45,38,4.6,0,Dior,5,7/15/2024,43,7,2024
+170,170,Autumn Blouse with Ruffled Sleeves,Female,Tops,Ruffled,Brown,Adult,Autumn,Silk,46,39,4.7,1,Givenchy,10,11/15/2023,45,11,2023
+171,171,Winter Cardigan with Fringe,Female,Outerwear,Fringe,Gray,Adult,Winter,Wool,44,37,4.5,0,Gucci,5,3/15/2024,42,3,2024
+172,172,Spring Pants with Pockets,Female,Bottoms,Pockets,Pink,Adult,Spring,Denim,47,39,4.6,1,Saint Laurent,10,6/15/2023,46,6,2023
+173,173,Summer Skirt with Tie Belt,Female,Skirts,Tie Belt,Yellow,Adult,Summer,Linen,44,38,4.5,0,Alexander McQueen,5,8/15/2024,42,8,2024
+174,174,Autumn Coat with Fur Collar,Female,Outerwear,Fur Collar,Black,Adult,Autumn,Wool,46,39,4.7,1,Louis Vuitton,10,12/15/2023,45,12,2023
+175,175,Winter Boots with Faux Fur Lining,Female,Footwear,Faux Fur Lining,White,Adult,Winter,Leather,43,38,4.6,0,Balmain,5,2/15/2024,41,2,2024
+176,176,Spring Hat with Flowers,Female,Accessories,Flowers,Pink,Adult,Spring,Straw,44,37,4.5,0,Valentino,5,5/15/2023,42,5,2023
+177,177,Summer Dress with Bows,Female,Dresses,Bows,Red,Adult,Summer,Cotton,47,39,4.6,1,Chanel,10,7/15/2024,46,7,2024
+178,178,Autumn Jumpsuit with Lace Detailing,Female,Jumpsuits,Lace Detailing,Black,Adult,Autumn,Satin,45,38,4.7,0,Prada,5,10/15/2023,44,10,2023
+179,179,Winter Jacket with Faux Leather Panels,Female,Outerwear,Faux Leather Panels,Green,Adult,Winter,Down,43,37,4.6,1,Saint Laurent,10,1/15/2024,42,1,2024
+180,180,Spring Top with Ruffles,Female,Tops,Ruffles,Blue,Adult,Spring,Silk,44,38,4.5,0,Givenchy,5,4/15/2023,42,4,2023
+181,181,Autumn Blouse with Lace Trim,Female,Tops,Lace Trim,Brown,Adult,Autumn,Silk,46,39,4.6,1,Gucci,10,11/15/2023,45,11,2023
+182,182,Winter Coat with Faux Fur Hood,Female,Outerwear,Faux Fur Hood,Grey,Adult,Winter,Wool,44,38,4.7,0,Versace,5,3/15/2024,43,3,2024
+183,183,Spring Skirt with Floral Print,Female,Skirts,Floral Print,Yellow,Adult,Spring,Cotton,47,39,4.6,1,Miu Miu,10,6/15/2023,46,6,2023
+184,184,Summer Dress with Stripes,Female,Dresses,Stripes,Pink,Adult,Summer,Cotton,45,38,4.5,0,Alexander McQueen,5,8/15/2024,44,8,2024
+185,185,Autumn Jacket with Belted Waist,Female,Outerwear,Belted Waist,Black,Adult,Autumn,Leather,46,39,4.7,1,Dior,10,12/15/2023,45,12,2023
+186,186,Winter Trousers with Faux Leather Pockets,Female,Trousers,Faux Leather Pockets,Blue,Adult,Winter,Wool,44,38,4.6,0,Fendi,5,2/15/2024,43,2,2024
+187,187,Spring Blouse with Lace Sleeves,Female,Tops,Lace Sleeves,White,Adult,Spring,Silk,45,39,4.5,0,Balmain,5,5/15/2023,44,5,2023
+188,188,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Red,Adult,Summer,Cotton,46,39,4.6,1,Saint Laurent,10,9/15/2024,45,9,2024
+189,189,Autumn Skirt with Pleats,Female,Skirts,Pleats,Green,Adult,Autumn,Wool,44,38,4.7,0,Givenchy,5,10/15/2023,43,10,2023
+190,190,Winter Coat with Faux Fur Lining,Female,Outerwear,Faux Fur Lining,Purple,Adult,Winter,Down,45,39,4.6,1,Valentino,10,1/15/2024,44,1,2024
+191,191,Spring Jumpsuit with Floral Print,Female,Jumpsuits,Floral Print,Pink,Adult,Spring,Silk,46,39,4.7,0,Chanel,5,4/15/2023,45,4,2023
+192,192,Summer Blouse with Ruffles,Female,Tops,Ruffles,Blue,Adult,Summer,Cotton,44,38,4.6,1,Prada,10,7/15/2024,43,7,2024
+193,193,Winter Jacket with Patchwork Design,Female,Outerwear,Patchwork Design,Gray,Adult,Winter,Wool,47,39,4.5,0,Gucci,5,2/15/2024,44,2,2024
+194,194,Spring Dress with Bows,Female,Dresses,Bows,Yellow,Adult,Spring,Silk,48,39,4.6,1,Miu Miu,10,5/15/2023,45,5,2023
+195,195,Summer Skirt with Ruffles,Female,Skirts,Ruffles,Orange,Adult,Summer,Cotton,49,39,4.7,0,Dior,5,9/15/2024,46,9,2024
+196,196,Autumn Jacket with Fringe,Female,Outerwear,Fringe,Brown,Adult,Autumn,Leather,47,39,4.5,1,Versace,10,10/15/2023,44,10,2023
+197,197,Winter Trousers with Stripes,Female,Trousers,Stripes,Black,Adult,Winter,Wool,45,38,4.6,0,Burberry,5,1/15/2024,43,1,2024
+198,198,Spring Jumpsuit with Floral Lace,Female,Jumpsuits,Floral Lace,Pink,Adult,Spring,Silk,46,39,4.7,1,Ralph Lauren,10,4/15/2023,45,4,2023
+199,199,Summer Blouse with Lace Detailing,Female,Tops,Lace Detailing,White,Adult,Summer,Cotton,44,38,4.6,0,J.Crew,5,7/15/2024,43,7,2024
+200,200,Autumn Dress with Pleats,Female,Dresses,Pleats,Red,Adult,Autumn,Wool,45,39,4.5,1,Marni,10,11/15/2023,44,11,2023
+201,201,Winter Cardigan with Fringe,Female,Sweaters,Fringe,Beige,Adult,Winter,Wool,46,39,4.6,0,Tory Burch,5,2/15/2024,45,2,2024
+202,202,Spring Blouse with Puffed Sleeves,Female,Tops,Puffed Sleeves,Green,Adult,Spring,Silk,47,39,4.5,1,J.W. Anderson,10,5/15/2023,44,5,2023
+203,203,Summer Dress with Bows,Female,Dresses,Bows,Blue,Adult,Summer,Cotton,48,39,4.7,0,Erdem,5,8/15/2024,46,8,2024
+204,204,Autumn Jacket with Faux Fur Lining,Female,Outerwear,Faux Fur Lining,Purple,Adult,Autumn,Leather,49,39,4.5,1,Alexander McQueen,10,10/15/2023,44,10,2023
+205,205,Spring Skirt with Ruffles,Female,Skirts,Ruffles,Yellow,Adult,Spring,Cotton,50,40,4.6,0,Celine,5,4/15/2024,47,4,2024
+206,206,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Orange,Adult,Summer,Silk,51,41,4.4,1,Balenciaga,10,7/15/2023,48,7,2023
+207,207,Autumn Blouse with Lace Overlay,Female,Tops,Lace Overlay,Brown,Adult,Autumn,Wool,52,42,4.5,0,Givenchy,5,11/15/2024,49,11,2024
+208,208,Winter Pants with Fringe,Female,Trousers,Fringe,Grey,Adult,Winter,Leather,53,43,4.3,1,Prada,10,2/15/2023,50,2,2023
+209,209,Spring Jumpsuit with Tie Waist,Female,Jumpsuits,Tie Waist,Black,Adult,Spring,Silk,54,44,4.6,0,Valentino,5,5/15/2024,51,5,2024
+210,210,Summer Tunic with Fringe,Female,Tops,Fringe,Pink,Adult,Summer,Cotton,55,45,4.4,1,Miu Miu,10,8/15/2023,52,8,2023
+211,211,Autumn Dress with Bows,Female,Dresses,Bows,Red,Adult,Autumn,Wool,56,46,4.5,0,Versace,5,10/15/2024,53,10,2024
+212,212,Winter Coat with Faux Fur Lining,Female,Outerwear,Faux Fur Lining,White,Adult,Winter,Leather,57,47,4.4,1,Gucci,10,3/15/2023,54,3,2023
+213,213,Spring Jacket with Ruffles,Female,Outerwear,Ruffles,Green,Adult,Spring,Silk,58,48,4.5,0,Dior,5,6/15/2024,55,6,2024
+214,214,Summer Blouse with Lace Detailing,Female,Tops,Lace Detailing,Purple,Adult,Summer,Cotton,59,49,4.6,1,Chanel,10,9/15/2023,56,9,2023
+215,215,Autumn Skirt with Pleats,Female,Skirts,Pleats,Blue,Adult,Autumn,Wool,60,50,4.4,0,Balmain,5,12/15/2024,57,12,2024
+216,216,Winter Dress with Fringe,Female,Dresses,Fringe,Gold,Adult,Winter,Leather,61,51,4.5,1,Saint Laurent,10,1/15/2023,58,1,2023
+217,217,Spring Blouse with Floral Print,Female,Tops,Floral Print,Yellow,Adult,Spring,Silk,62,52,4.5,0,Alexander McQueen,5,7/15/2024,59,7,2024
+218,218,Summer Skirt with Tassels,Female,Skirts,Tassels,Orange,Adult,Summer,Linen,63,53,4.4,1,Moschino,10,11/15/2023,59,11,2023
+219,219,Autumn Jacket with Fur Hood,Female,Outerwear,Fur Hood,Black,Adult,Autumn,Leather,64,54,4.6,0,Valentino,5,4/15/2024,60,4,2024
+220,220,Winter Tunic with Faux Fur Sleeve,Female,Tops,Faux Fur Sleeve,Grey,Adult,Winter,Cashmere,65,55,4.4,1,Burberry,10,2/15/2023,61,2,2023
+221,221,Spring Dress with Ruffles,Female,Dresses,Ruffles,Pink,Adult,Spring,Cotton,66,56,4.5,0,Celine,5,5/15/2024,62,5,2024
+222,222,Summer Jumpsuit with Stripes,Female,Jumpsuits,Stripes,White,Adult,Summer,Cotton,67,57,4.4,1,Prada,10,10/15/2023,63,10,2023
+223,223,Autumn Blouse with Lace,Female,Tops,Lace,Brown,Adult,Autumn,Silk,68,58,4.5,0,Saint Laurent,5,8/15/2024,64,8,2024
+224,224,Winter Cardigan with Fringe,Female,Cardigans,Fringe,Red,Adult,Winter,Wool,69,59,4.4,1,Miu Miu,10,6/15/2023,65,6,2023
+225,225,Spring Jacket with Bows,Female,Outerwear,Bows,Blue,Adult,Spring,Leather,70,60,4.5,0,Versace,5,3/15/2024,66,3,2024
+226,226,Summer Dress with Ruffles,Female,Dresses,Ruffles,Green,Adult,Summer,Linen,71,61,4.4,1,Givenchy,10,9/15/2023,67,9,2023
+227,227,Autumn Blouse with Lace Detailing,Female,Tops,Lace Detailing,Black,Adult,Autumn,Silk,72,62,4.5,0,Balenciaga,5,11/15/2024,68,11,2024
+228,228,Winter Coat with Faux Fur Lining,Female,Outerwear,Faux Fur Lining,White,Adult,Winter,Leather,73,63,4.4,1,Gucci,10,4/15/2023,69,4,2023
+229,229,Spring Jumpsuit with Floral Print,Female,Jumpsuits,Floral Print,Pink,Adult,Spring,Cotton,74,64,4.5,0,Chanel,5,2/15/2024,70,2,2024
+230,230,Summer Skirt with Polka Dots,Female,Skirts,Polka Dots,Black,Adult,Summer,Silk,75,65,4.4,1,Dior,10,12/15/2023,71,12,2023
+231,231,Autumn Blouse with Plaid,Female,Tops,Plaid,Red,Adult,Autumn,Wool,76,66,4.5,0,Fendi,5,9/15/2024,72,9,2024
+232,232,Winter Coat with Faux Fur Trim,Female,Outerwear,Faux Fur Trim,Grey,Adult,Winter,Leather,77,67,4.4,1,Valentino,10,5/15/2023,73,5,2023
+233,233,Spring Dress with Floral Lace,Female,Dresses,Floral Lace,White,Adult,Spring,Linen,78,68,4.5,0,Ralph Lauren,5,4/15/2024,74,4,2024
+234,234,Summer Top with Tie Dye,Female,Tops,Tie Dye,Blue,Adult,Summer,Cotton,79,69,4.4,1,Zara,10,8/15/2023,75,8,2023
+235,235,Autumn Jacket with Fleece Lining,Female,Outerwear,Fleece Lining,Brown,Adult,Autumn,Leather,80,70,4.5,0,H&M,5,10/15/2024,76,10,2024
+236,236,Winter Cardigan with Patchwork,Female,Cardigans,Patchwork,Green,Adult,Winter,Wool,81,71,4.4,1,Uniqlo,10,7/15/2023,77,7,2023
+237,237,Spring Skirt with Tartan Print,Female,Skirts,Tartan Print,Purple,Adult,Spring,Silk,82,72,4.5,0,Topshop,5,3/15/2024,78,3,2024
+238,238,Summer Dress with Stripes,Female,Dresses,Stripes,Yellow,Adult,Summer,Linen,83,73,4.4,1,Mango,10,11/15/2023,79,11,2023
+239,239,Autumn Blouse with Geometric Print,Female,Tops,Geometric Print,Orange,Adult,Autumn,Silk,84,74,4.5,0,J.Crew,5,1/15/2024,80,1,2024
+240,240,Winter Coat with Faux Fur Sleeves,Female,Outerwear,Faux Fur Sleeves,Pink,Adult,Winter,Leather,85,75,4.4,1,Cos,10,6/15/2023,81,6,2023
+241,241,Summer Maxi Dress with Floral Print,Female,Dresses,Floral Print,Red,Adult,Summer,Cotton,86,76,4.5,0,Zara,5,9/15/2023,82,9,2023
+242,242,Autumn Scarf with Fringe,Female,Accessories,Fringe,Gray,Adult,Autumn,Wool,87,77,4.4,1,H&M,10,11/15/2024,83,11,2024
+243,243,Winter Boots with Fur Lining,Female,Footwear,Fur Lining,Black,Adult,Winter,Leather,88,78,4.5,0,Uniqlo,5,5/15/2023,84,5,2023
+244,244,Spring Skort with Lace Trim,Female,Skorts,Lace Trim,Pink,Adult,Spring,Cotton,89,79,4.4,1,Topshop,10,2/15/2024,85,2,2024
+245,245,Summer Shorts with Ruffled Hem,Female,Shorts,Ruffled Hem,Blue,Adult,Summer,Linen,90,80,4.5,0,Mango,5,12/15/2023,86,12,2023
+246,246,Autumn Pants with Patchwork,Female,Pants,Patchwork,Green,Adult,Autumn,Wool,91,81,4.4,1,J.Crew,5,4/15/2024,87,4,2024
+247,247,Winter Jumpsuit with Satin Bows,Female,Jumpsuits,Satin Bows,White,Adult,Winter,Satin,92,82,4.5,0,Cos,5,3/15/2023,88,3,2023
+248,248,Spring Cardigan with Lace Detailing,Female,Cardigans,Lace Detailing,Yellow,Adult,Spring,Cotton,93,83,4.4,1,Zara,10,5/15/2024,89,5,2024
+249,249,Summer Top with Cutouts,Female,Tops,Cutouts,Orange,Adult,Summer,Silk,94,84,4.5,0,H&M,5,10/15/2023,86,10,2023
+250,250,Autumn Blouse with Paisley Print,Female,Tops,Paisley Print,Purple,Adult,Autumn,Silk,95,85,4.4,1,Uniqlo,10,6/15/2024,87,6,2024
+251,251,Winter Jacket with Fur Hood,Female,Outerwear,Fur Hood,Brown,Adult,Winter,Leather,96,86,4.5,0,Topshop,5,7/15/2023,88,7,2023
+252,252,Spring Cardigan with Fringe,Female,Cardigans,Fringe,Green,Adult,Spring,Wool,97,87,4.4,1,J.Crew,10,8/15/2024,89,8,2024
+253,253,Spring Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Spring,Cotton,98,88,4.5,0,H&M,5,9/15/2024,90,9,2024
+254,254,Summer Skirt with Tie Dye,Female,Skirts,Tie Dye,Blue,Adult,Summer,Cotton,99,89,4.4,1,Zara,10,11/15/2023,91,11,2023
+255,255,Autumn Blouse with Lace Trim,Female,Tops,Lace Trim,Red,Adult,Autumn,Silk,100,90,4.5,0,Uniqlo,5,10/15/2024,92,10,2024
+256,256,Winter Jacket with Faux Fur Lining,Female,Outerwear,Faux Fur Lining,Grey,Adult,Winter,Leather,101,91,4.4,1,Topshop,5,12/15/2023,93,12,2023
+257,257,Spring Jumpsuit with Ruffle Hem,Female,Jumpsuits,Ruffle Hem,Yellow,Adult,Spring,Cotton,102,92,4.5,0,Cos,5,11/15/2024,94,11,2024
+258,258,Summer Top with Ruffles,Female,Tops,Ruffles,Pink,Adult,Summer,Silk,103,93,4.4,1,J.Crew,10,2/15/2023,95,2,2023
+259,259,Autumn Pants with Stripes,Female,Pants,Stripes,Black,Adult,Autumn,Wool,104,94,4.5,0,J.Crew,5,12/15/2024,96,12,2024
+260,260,Winter Cardigan with Faux Fur Collar,Female,Cardigans,Faux Fur Collar,Beige,Adult,Winter,Cotton,105,95,4.4,1,Uniqlo,10,3/15/2023,97,3,2023
+261,261,Spring Blouse with Lace Overlay,Female,Tops,Lace Overlay,White,Adult,Spring,Silk,106,96,4.5,0,Cos,5,1/15/2024,98,1,2024
+262,262,Summer Skirt with Tie Dye,Female,Skirts,Tie Dye,Green,Adult,Summer,Cotton,107,97,4.4,1,Zara,10,4/15/2023,99,4,2023
+263,263,Autumn Dress with Floral Print,Female,Dresses,Floral Print,Purple,Adult,Autumn,Silk,108,98,4.5,0,H&M,5,2/15/2024,100,2,2024
+264,264,Winter Jacket with Fur Hood,Female,Outerwear,Fur Hood,Brown,Adult,Winter,Leather,109,99,4.4,1,Topshop,5,5/15/2023,101,5,2023
+265,265,Spring Dress with Paisley Print,Female,Dresses,Paisley Print,Blue,Adult,Spring,Cotton,110,100,4.5,0,ASOS,10,3/15/2024,102,3,2024
+266,266,Summer Skirt with Tie Dye,Female,Skirts,Tie Dye,Yellow,Adult,Summer,Linen,111,99,4.4,1,J.Crew,5,6/15/2023,103,6,2023
+267,267,Autumn Jacket with Faux Leather Sleeves,Female,Outerwear,Faux Leather Sleeves,Red,Adult,Autumn,Polyester,112,101,4.5,0,Uniqlo,10,4/15/2024,104,4,2024
+268,268,Winter Pants with Faux Fur Trim,Female,Pants,Faux Fur Trim,Grey,Adult,Winter,Wool,113,102,4.4,1,Cos,5,7/15/2023,105,7,2023
+269,269,Spring Blouse with Lace Trim,Female,Tops,Lace Trim,White,Adult,Spring,Silk,114,103,4.5,0,Zara,10,5/15/2024,106,5,2024
+270,270,Summer Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Summer,Cotton,115,104,4.4,1,H&M,5,8/15/2023,107,8,2023
+271,271,Autumn Top with Tie Neck,Female,Tops,Tie Neck,Burgundy,Adult,Autumn,Silk,116,105,4.5,0,Topshop,10,6/15/2024,108,6,2024
+272,272,Winter Cardigan with Faux Fur Collar,Female,Cardigans,Faux Fur Collar,Beige,Adult,Winter,Wool,117,106,4.4,1,ASOS,5,9/15/2023,109,9,2023
+273,273,Spring Jacket with Patchwork Sleeves,Female,Outerwear,Patchwork Sleeves,Green,Adult,Spring,Leather,118,107,4.5,0,J.Crew,10,7/15/2024,110,7,2024
+274,274,Summer Dress with Striped Print,Female,Dresses,Striped Print,Black,Adult,Summer,Linen,119,108,4.4,1,Uniqlo,5,10/15/2023,111,10,2023
+275,275,Autumn Skirt with Lace Overlay,Female,Skirts,Lace Overlay,White,Adult,Autumn,Silk,120,109,4.5,0,Cos,10,8/15/2024,112,8,2024
+276,276,Winter Coat with Faux Fur Lining,Female,Outerwear,Faux Fur Lining,Black,Adult,Winter,Wool,121,110,4.3,2,Nordstrom,15,11/15/2023,113,11,2023
+277,277,Spring Dress with Floral Print,Female,Dresses,Floral Print,Yellow,Adult,Spring,Cotton,122,111,4.6,0,Macy's,10,4/15/2024,114,4,2024
+278,278,Summer Blouse with Tie Detail,Female,Tops,Tie Detail,Blue,Adult,Summer,Linen,123,112,4.4,1,Bloomingdale's,5,6/15/2023,115,6,2023
+279,279,Autumn Jacket with Fringe Sleeves,Female,Outerwear,Fringe Sleeves,Brown,Adult,Autumn,Leather,124,113,4.5,0,Saks Fifth Avenue,10,9/15/2024,116,9,2024
+280,280,Winter Cardigan with Patchwork Design,Female,Cardigans,Patchwork Design,Grey,Adult,Winter,Wool,125,114,4.3,1,L.L.Bean,5,12/15/2023,117,12,2023
+281,281,Spring Skirt with Ruffled Hem,Female,Skirts,Ruffled Hem,Pink,Adult,Spring,Silk,126,115,4.5,0,Anthropologie,10,5/15/2024,118,5,2024
+282,282,Summer Top with Lace Inserts,Female,Tops,Lace Inserts,White,Adult,Summer,Cotton,127,116,4.4,1,J.Crew,5,7/15/2023,119,7,2023
+283,283,Autumn Dress with Pleated Skirt,Female,Dresses,Pleated Skirt,Red,Adult,Autumn,Wool,128,117,4.5,0,Nordstrom,10,10/15/2024,120,10,2024
+284,284,Winter Pants with Fleece Lining,Female,Pants,Fleece Lining,Black,Adult,Winter,Wool,129,118,4.4,1,H&M,5,1/15/2023,121,1,2023
+285,285,Spring Jacket with Belted Waist,Female,Outerwear,Belted Waist,Green,Adult,Spring,Leather,130,119,4.5,0,Uniqlo,10,3/15/2024,122,3,2024
+286,286,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Blue,Adult,Summer,Linen,131,120,4.4,1,ASOS,5,8/15/2023,123,8,2023
+287,287,Autumn Blouse with Lace Sleeves,Female,Blouses,Lace Sleeves,Brown,Adult,Autumn,Cotton,132,121,4.5,0,Zara,10,11/15/2024,124,11,2024
+288,288,Winter Coat with Faux Fur Lining,Female,Outerwear,Faux Fur Lining,Grey,Adult,Winter,Wool,133,122,4.4,1,Mango,5,2/15/2023,125,2,2023
+289,289,Spring Top with Ruffled Sleeves,Female,Tops,Ruffled Sleeves,Yellow,Adult,Spring,Silk,134,123,4.6,0,Forever 21,10,4/15/2024,126,4,2024
+290,290,Summer Dress with Flower Print,Female,Dresses,Flower Print,Pink,Adult,Summer,Cotton,135,124,4.3,1,H&M,5,6/15/2023,127,6,2023
+291,291,Autumn Pants with Elastic Waist,Female,Pants,Elastic Waist,Black,Adult,Autumn,Jersey,136,125,4.4,0,Target,10,12/15/2024,128,12,2024
+292,292,Winter Hat with Faux Fur Earflaps,Female,Accessories,Faux Fur Earflaps,White,Adult,Winter,Wool,137,126,4.7,0,Old Navy,5,3/15/2023,129,3,2023
+293,293,Spring Scarf with Tassel Ends,Female,Accessories,Tassel Ends,Red,Adult,Spring,Silk,138,127,4.5,0,J.Crew,10,5/15/2024,130,5,2024
+294,294,Summer Sandals with Ankle Straps,Female,Shoes,Ankle Straps,Brown,Adult,Summer,Leather,139,128,4.2,1,Skechers,5,7/15/2023,132,7,2023
+295,295,Autumn Jacket with Fringe Detail,Female,Outerwear,Fringe Detail,Blue,Adult,Autumn,Leather,140,129,4.6,0,Reebok,10,10/15/2024,133,10,2024
+296,296,Winter Boots with Fur Lining,Female,Shoes,Fur Lining,Grey,Adult,Winter,Leather,141,130,4.4,1,New Balance,5,1/15/2023,134,1,2023
+297,297,Spring Dress with Ruffled Hem,Female,Dresses,Ruffled Hem,Pink,Adult,Spring,Silk,142,131,4.5,0,J.Crew,10,6/15/2024,135,6,2024
+298,298,Autumn Blouse with Puff Sleeves,Female,Tops,Puff Sleeves,Maroon,Adult,Autumn,Cotton,143,132,4.3,0,Zara,5,11/15/2023,136,11,2023
+299,299,Winter Coat with Faux Fur Collar,Female,Outerwear,Faux Fur Collar,Black,Adult,Winter,Wool,144,133,4.6,0,H&M,10,2/15/2024,137,2,2024
+300,300,Spring Skirt with Pleats,Female,Skirts,Pleats,Yellow,Adult,Spring,Linen,145,134,4.5,0,ASOS,5,4/15/2023,138,4,2023
+301,301,Summer Dress with Ruffles,Female,Dresses,Ruffles,Green,Adult,Summer,Cotton,146,135,4.4,1,Forever 21,10,8/15/2023,140,8,2023
+302,302,Autumn Skirt with Lace Trim,Female,Skirts,Lace Trim,Beige,Adult,Autumn,Wool,147,136,4.7,0,Topshop,5,10/15/2023,141,10,2023
+303,303,Winter Cardigan with Fringe,Female,Sweaters,Fringe,Navy,Adult,Winter,Cotton,148,137,4.5,0,Mango,10,1/15/2024,142,1,2024
+304,304,Spring Jacket with Tie Belt,Female,Outerwear,Tie Belt,Pink,Adult,Spring,Denim,149,138,4.3,1,Uniqlo,5,5/15/2023,143,5,2023
+305,305,Summer Tank Top with Lace Inserts,Female,Tops,Lace Inserts,White,Adult,Summer,Cotton,150,139,4.2,0,Fashion Nova,10,7/15/2023,144,7,2023
+306,306,Autumn Cardigan with Lace Detail,Female,Sweaters,Lace Detail,Grey,Adult,Autumn,Wool,151,140,4.6,0,Marks & Spencer,5,12/15/2023,145,12,2023
+307,307,Winter Coat with Faux Fur Cuffs,Female,Outerwear,Faux Fur Cuffs,Burgundy,Adult,Winter,Leather,152,141,4.8,0,Coach,10,3/15/2024,146,3,2024
+308,308,Spring Skirt with Ruching,Female,Skirts,Ruching,Coral,Adult,Spring,Silk,153,142,4.4,0,Banana Republic,5,4/15/2023,147,4,2023
+309,309,Summer Maxi Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Summer,Cotton,154,143,4.6,0,Zara,10,8/15/2023,148,8,2023
+310,310,Autumn Jacket with Faux Leather Sleeves,Female,Outerwear,Faux Leather Sleeves,Black,Adult,Autumn,Cotton,155,144,4.5,0,H&M,5,11/15/2023,149,11,2023
+311,311,Winter Puffer Jacket with Hood,Female,Outerwear,Hood,Blue,Adult,Winter,Fleece,156,145,4.7,0,North Face,10,2/15/2024,150,2,2024
+312,312,Spring Blouse with Lace Detail,Female,Tops,Lace Detail,White,Adult,Spring,Silk,157,146,4.4,0,J.Crew,5,6/15/2023,151,6,2023
+313,313,Summer Shorts with Tie Waist,Female,Shorts,Tie Waist,Denim,Adult,Summer,Denim,158,147,4.3,0,Levi's,10,9/15/2023,152,9,2023
+314,314,Autumn Scarf with Fringe,Female,Accessories,Fringe,Brown,Adult,Autumn,Wool,159,148,4.2,0,Etsy,5,10/15/2023,153,10,2023
+315,315,Winter Hat with Pom Pom,Female,Accessories,Pom Pom,Red,Adult,Winter,Wool,160,149,4.1,0,Etsy,10,1/15/2024,154,1,2024
+316,316,Spring Skirt with Ruffled Hem,Female,Skirts,Ruffled Hem,Yellow,Adult,Spring,Cotton,161,150,4.5,0,ASOS,5,4/15/2023,155,4,2023
+317,317,Summer Swimsuit with Halter Neck,Female,Swimwear,Halter Neck,Green,Adult,Summer,Lycra,162,151,4.4,0,Victoria's Secret,10,7/15/2023,156,7,2023
+318,318,Autumn Blazer with Patch Pockets,Female,Outerwear,Patch Pockets,Green,Adult,Autumn,Wool,163,152,4.6,0,J.Crew,5,12/15/2023,157,12,2023
+319,319,Winter Cardigan with Fringe,Female,Sweaters,Fringe,Navy,Adult,Winter,Cotton,164,153,4.4,0,H&M,10,3/15/2024,158,3,2024
+320,320,Spring Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Spring,Cotton,165,154,4.5,0,Zara,5,5/15/2023,159,5,2023
+321,321,Summer Top with Lace Overlay,Female,Tops,Lace Overlay,White,Adult,Summer,Polyester,166,155,4.4,0,ASOS,10,8/15/2023,160,8,2023
+322,322,Autumn Coat with Fur Trim,Female,Outerwear,Fur Trim,Black,Adult,Autumn,Wool,167,156,4.6,0,Michael Kors,5,11/15/2023,161,11,2023
+323,323,Winter Jacket with Pockets,Female,Outerwear,Pockets,Grey,Adult,Winter,Fleece,168,157,4.3,0,Nike,10,2/15/2024,162,2,2024
+324,324,Spring Jacket with Hood,Female,Outerwear,Hood,Blue,Adult,Spring,Cotton,169,158,4.5,0,Patagonia,5,6/15/2023,163,6,2023
+325,325,Summer Skirt with Tie Waist,Female,Skirts,Tie Waist,Red,Adult,Summer,Cotton,170,159,4.4,0,Forever 21,10,9/15/2023,164,9,2023
+326,326,Autumn Pants with Elastic Waist,Female,Pants,Elastic Waist,Brown,Adult,Autumn,Cotton,171,160,4.2,0,Old Navy,5,10/15/2023,165,10,2023
+327,327,Winter Leggings with Thermal Lining,Female,Leggings,Thermal Lining,Black,Adult,Winter,Polyester,172,161,4.6,0,Lululemon,10,1/15/2024,166,1,2024
+328,328,Spring Top with Ruffles,Female,Tops,Ruffles,Green,Adult,Spring,Polyester,173,162,4.3,0,Anthropologie,5,4/15/2023,167,4,2023
+329,329,Summer Shorts with Pockets,Female,Shorts,Pockets,Denim,Adult,Summer,Denim,174,163,4.4,0,Levi's,10,7/15/2023,168,7,2023
+330,330,Autumn Blouse with Lace Trim,Female,Blouses,Lace Trim,White,Adult,Autumn,Polyester,175,164,4.5,0,Everlane,5,12/15/2023,169,12,2023
+331,331,Winter Coat with Fur Trim,Female,Outerwear,Fur Trim,Beige,Adult,Winter,Wool,176,165,4.4,0,The North Face,10,2/15/2024,171,2,2024
+332,332,Spring Dress with Floral Pattern,Female,Dresses,Floral,Pink,Adult,Spring,Cotton,177,166,4.6,0,ASOS,5,5/15/2023,172,5,2023
+333,333,Summer Skirt with Gathered Waist,Female,Skirts,Gathered Waist,Blue,Adult,Summer,Linen,178,167,4.3,0,Zara,10,8/15/2023,173,8,2023
+334,334,Autumn Jacket with Faux Leather,Female,Outerwear,Faux Leather,Black,Adult,Autumn,Polyester,179,168,4.5,0,Uniqlo,5,11/15/2023,174,11,2023
+335,335,Winter Sweater with Turtleneck,Female,Sweaters,Turtleneck,Grey,Adult,Winter,Cashmere,180,169,4.7,0,J.Crew,10,1/15/2024,175,1,2024
+336,336,Spring Blouse with Ruffled Sleeves,Female,Blouses,Ruffled Sleeves,White,Adult,Spring,Silk,181,170,4.4,0,J.Crew,5,4/15/2023,176,4,2023
+337,337,Summer Top with Cutouts,Female,Tops,Cutouts,Yellow,Adult,Summer,Polyester,182,171,4.2,0,Forever 21,10,7/15/2023,177,7,2023
+338,338,Autumn Pants with Wide Legs,Female,Pants,Wide Legs,Red,Adult,Autumn,Cotton,183,172,4.1,0,H&M,5,12/15/2023,178,12,2023
+339,339,Winter Boots with Fur Lining,Female,Boots,Fur Lining,Brown,Adult,Winter,Leather,184,173,4.6,0,UGG,10,2/15/2024,179,2,2024
+340,340,Spring Hat with Floral Pattern,Female,Hats,Floral,Pink,Adult,Spring,Cotton,185,174,4.5,0,Madewell,5,5/15/2023,174,5,2023
+341,341,Summer Scarf with Fringe,Female,Scarves,Fringe,Turquoise,Adult,Summer,Silk,186,175,4.3,0,Anthropologie,10,8/15/2023,179,8,2023
+342,342,Winter Jacket with Faux Fur Hood,Female,Jackets,Faux Fur Hood,Black,Adult,Winter,Leather,187,176,4.5,0,Coach,10,3/15/2024,181,3,2024
+343,343,Spring Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Spring,Cotton,188,177,4.4,0,Zara,5,6/15/2023,182,6,2023
+344,344,Summer Skirt with Tie Waist,Female,Skirts,Tie Waist,Blue,Adult,Summer,Linen,189,178,4.3,0,Mango,10,9/15/2023,183,9,2023
+345,345,Autumn Coat with Belted Waist,Female,Coats,Belted Waist,Green,Adult,Autumn,Wool,190,179,4.2,0,Michael Kors,5,11/15/2023,184,11,2023
+346,346,Winter Cardigan with Lace Trim,Female,Cardigans,Lace Trim,White,Adult,Winter,Cashmere,191,180,4.6,0,J.Crew,10,1/15/2024,185,1,2024
+347,347,Spring Blouse with Peter Pan Collar,Female,Blouses,Peter Pan Collar,Yellow,Adult,Spring,Silk,192,181,4.4,0,Madewell,5,4/15/2023,186,4,2023
+348,348,Summer Top with Ruching,Female,Tops,Ruching,Red,Adult,Summer,Cotton,193,182,4.2,0,H&M,10,7/15/2023,187,7,2023
+349,349,Autumn Pants with Elastic Waist,Female,Pants,Elastic Waist,Grey,Adult,Autumn,Cotton,194,183,4.1,0,Forever 21,5,12/15/2023,188,12,2023
+350,350,Winter Hat with Faux Fur Earflaps,Female,Hats,Faux Fur Earflaps,Brown,Adult,Winter,Wool,195,184,4.3,0,UGG,10,2/15/2024,189,2,2024
+351,351,Spring Scarf with Tassels,Female,Scarves,Tassels,Purple,Adult,Spring,Silk,196,185,4.4,0,Anthropologie,5,5/15/2023,184,5,2023
+352,352,Summer Sandals with Straps,Female,Sandals,Straps,Black,Adult,Summer,Leather,197,186,4.2,0,Steve Madden,10,8/15/2023,185,8,2023
+353,353,Autumn Skirt with Pleats,Female,Skirts,Pleats,Green,Adult,Autumn,Wool,198,187,4.5,0,Zara,5,11/15/2023,186,11,2023
+354,354,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Black,Adult,Winter,Leather,199,188,4.6,0,Michael Kors,10,3/15/2024,187,3,2024
+355,355,Spring Jacket with Patchwork Sleeves,Female,Jackets,Patchwork Sleeves,Blue,Adult,Spring,Denim,200,189,4.4,0,Free People,5,6/15/2023,188,6,2023
+356,356,Summer Dress with Ruffles,Female,Dresses,Ruffles,Pink,Adult,Summer,Cotton,201,190,4.3,0,Reformation,10,9/15/2023,189,9,2023
+357,357,Autumn Blouse with Lace Sleeves,Female,Blouses,Lace Sleeves,White,Adult,Autumn,Silk,202,191,4.5,0,Everlane,5,10/15/2023,189,10,2023
+358,358,Winter Cardigan with Fringe Hem,Female,Cardigans,Fringe Hem,Brown,Adult,Winter,Cashmere,203,192,4.4,0,Tibi,10,1/15/2024,190,1,2024
+359,359,Spring Skirt with Gathered Waist,Female,Skirts,Gathered Waist,Yellow,Adult,Spring,Linen,204,193,4.2,0,Mango,5,4/15/2023,191,4,2023
+360,360,Summer Top with Tie Sleeve,Female,Tops,Tie Sleeve,Red,Adult,Summer,Cotton,205,194,4.1,0,J.Crew Factory,10,7/15/2023,192,7,2023
+361,361,Autumn Pants with Wide Leg,Female,Pants,Wide Leg,Grey,Adult,Autumn,Denim,206,195,4.3,0,Levi's,5,12/15/2023,193,12,2023
+362,362,Winter Hat with Faux Fur Pom Pom,Female,Hats,Faux Fur Pom Pom,Black,Adult,Winter,Wool,207,196,4.2,0,Urban Outfitters,10,2/15/2024,194,2,2024
+363,363,Spring Scarf with Fringe,Female,Scarves,Fringe,Purple,Adult,Spring,Silk,208,197,4.5,0,Anthropologie,5,5/15/2023,195,5,2023
+364,364,Summer Dress with Tie Strap,Female,Dresses,Tie Strap,Blue,Adult,Summer,Cotton,209,198,4.4,0,Zara,10,8/15/2023,196,8,2023
+365,365,Autumn Coat with Faux Leather Sleeves,Female,Coats,Faux Leather Sleeves,Green,Adult,Autumn,Faux Leather,210,200,4.6,1,Reformation,5,10/15/2023,198,10,2023
+366,366,Winter Boots with Faux Fur Lining,Female,Boots,Faux Fur Lining,White,Adult,Winter,Leather,211,201,4.7,0,Steve Madden,10,1/15/2024,199,1,2024
+367,367,Spring Jacket with Patchwork Design,Female,Jackets,Patchwork Design,Multi,Adult,Spring,Cotton,212,202,4.3,0,H&M,5,4/15/2023,200,4,2023
+368,368,Summer Shorts with Bows,Female,Shorts,Bows,Pink,Adult,Summer,Cotton,213,203,4.1,0,Forever 21,10,7/15/2023,201,7,2023
+369,369,Autumn Skirt with Ruffled Hem,Female,Skirts,Ruffled Hem,Black,Adult,Autumn,Wool,214,204,4.2,0,ASOS,5,12/15/2023,202,12,2023
+370,370,Winter Jumpsuit with Faux Fur Hood,Female,Jumpsuits,Faux Fur Hood,Grey,Adult,Winter,Faux Leather,215,205,4.5,1,Bardot,10,2/15/2024,203,2,2024
+371,371,Spring Blazer with Patchwork Sleeves,Female,Blazers,Patchwork Sleeves,Grey,Adult,Spring,Cotton,216,206,4.4,0,Topshop,5,5/15/2023,204,5,2023
+372,372,Summer Dress with Tie Back,Female,Dresses,Tie Back,Yellow,Adult,Summer,Linen,217,207,4.5,0,J.Crew,10,8/15/2023,205,8,2023
+373,373,Autumn Sweater with Fringe Hem,Female,Sweaters,Fringe Hem,Brown,Adult,Autumn,Cashmere,218,208,4.6,0,Everlane,5,10/15/2023,206,10,2023
+374,374,Winter Coat with Shearling Collar,Female,Coats,Shearling Collar,Black,Adult,Winter,Shearling,219,209,4.8,1,The North Face,10,1/15/2024,207,1,2024
+375,375,Summer Maxi Dress with Tie Waist,Female,Dresses,Tie Waist,Blue,Adult,Summer,Cotton,220,210,4.3,0,Zara,5,9/15/2023,208,9,2023
+376,376,Autumn Tunic with Lace Trim,Female,Tunics,Lace Trim,Red,Adult,Autumn,Silk,221,211,4.4,0,H&M,10,11/15/2023,209,11,2023
+377,377,Winter Cardigan with Fringe Sleeves,Female,Cardigans,Fringe Sleeves,Green,Adult,Winter,Wool,222,212,4.7,0,Uniqlo,5,3/15/2024,210,3,2024
+378,378,Spring Jumpsuit with Belted Waist,Female,Jumpsuits,Belted Waist,Pink,Adult,Spring,Linen,223,213,4.5,0,Mango,10,6/15/2023,211,6,2023
+379,379,Summer Skirt with Flounce Hem,Female,Skirts,Flounce Hem,Orange,Adult,Summer,Cotton,224,214,4.2,0,New Look,5,7/15/2023,212,7,2023
+380,380,Autumn Blazer with Patchwork Sleeves,Female,Blazers,Patchwork Sleeves,Grey,Adult,Autumn,Wool,225,215,4.6,0,River Island,10,12/15/2023,213,12,2023
+381,381,Winter Leggings with Fleece Lining,Female,Leggings,Fleece Lining,Black,Adult,Winter,Fleece,226,216,4.4,0,Abercrombie & Fitch,5,4/15/2024,214,4,2024
+382,382,Spring Top with Ruffle Sleeves,Female,Tops,Ruffle Sleeves,White,Adult,Spring,Cotton,227,217,4.1,0,Boohoo,10,5/15/2023,215,5,2023
+383,383,Summer Shirt with Floral Print,Female,Shirts,Floral Print,Pink,Adult,Summer,Cotton,228,218,4.3,0,Reiss,5,8/15/2023,216,8,2023
+384,384,Autumn Jacket with Faux Fur Collar,Female,Jackets,Faux Fur Collar,Brown,Adult,Autumn,Faux Leather,229,219,4.5,1,Guess,10,10/15/2023,217,10,2023
+385,385,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Black,Adult,Winter,Faux Leather,230,220,4.7,0,Calvin Klein,10,2/15/2024,218,2,2024
+386,386,Spring Dress with Tiered Skirt,Female,Dresses,Tiered Skirt,Yellow,Adult,Spring,Cotton,231,221,4.4,0,Mango,5,6/15/2023,219,6,2023
+387,387,Summer Jumpsuit with Bardot Neckline,Female,Jumpsuits,Bardot Neckline,Blue,Adult,Summer,Cotton,232,222,4.6,0,Topshop,10,9/15/2023,220,9,2023
+388,388,Autumn Pants with Wide Leg,Female,Pants,Wide Leg,Green,Adult,Autumn,Denim,233,223,4.3,0,Zara,5,11/15/2023,221,11,2023
+389,389,Winter Sweater with Turtleneck,Female,Sweaters,Turtleneck,Red,Adult,Winter,Wool,234,224,4.5,0,H&M,10,3/15/2024,222,3,2024
+390,390,Spring Skirt with Pleats,Female,Skirts,Pleats,Purple,Adult,Spring,Cotton,235,225,4.2,0,Cos,5,7/15/2023,223,7,2023
+391,391,Summer Blouse with Ruffled Sleeves,Female,Blouses,Ruffled Sleeves,Pink,Adult,Summer,Cotton,236,226,4.1,0,Asos,10,4/15/2023,224,4,2023
+392,392,Autumn Coat with Faux Shearling Lining,Female,Coats,Faux Shearling Lining,Grey,Adult,Autumn,Faux Leather,237,227,4.4,1,Dolce & Gabbana,10,12/15/2023,225,12,2023
+393,393,Winter Trousers with Fleece Lining,Female,Trousers,Fleece Lining,Black,Adult,Winter,Fleece,238,228,4.6,0,Gap,5,1/15/2024,226,1,2024
+394,394,Spring Jacket with Patchwork Detailing,Female,Jackets,Patchwork Detailing,Green,Adult,Spring,Leather,239,229,4.3,0,Marc Jacobs,10,5/15/2023,227,5,2023
+395,395,Summer Dress with Ruffle Hem,Female,Dresses,Ruffle Hem,Orange,Adult,Summer,Cotton,240,230,4.5,0,Reformation,5,8/15/2023,228,8,2023
+396,396,Autumn Jumpsuit with Wide Leg,Female,Jumpsuits,Wide Leg,Brown,Adult,Autumn,Cotton,241,231,4.2,0,J.Crew,10,10/15/2023,229,10,2023
+397,397,Winter Boots with Fur Lining,Female,Boots,Fur Lining,White,Adult,Winter,Leather,242,232,4.7,1,Gucci,10,2/15/2024,230,2,2024
+398,398,Spring Dress with Tiered Ruffles,Female,Dresses,Tiered Ruffles,Blue,Adult,Spring,Cotton,243,233,4.4,0,Zara,5,6/15/2023,231,6,2023
+399,399,Summer Skirt with Gathered Waist,Female,Skirts,Gathered Waist,Yellow,Adult,Summer,Linen,244,234,4.1,0,H&M,10,9/15/2023,232,9,2023
+400,400,Autumn Jacket with Patchwork Sleeves,Female,Jackets,Patchwork Sleeves,Red,Adult,Autumn,Wool,245,235,4.6,1,Prada,5,12/15/2023,233,12,2023
+401,401,Winter Coat with Faux Fur Hood,Female,Coats,Faux Fur Hood,Grey,Adult,Winter,Faux Leather,246,236,4.8,0,Chanel,10,3/15/2024,234,3,2024
+402,402,Spring Jumpsuit with Tie Waist,Female,Jumpsuits,Tie Waist,Green,Adult,Spring,Cotton,247,237,4.3,0,Mango,5,7/15/2023,235,7,2023
+403,403,Summer Trousers with Wide Leg,Female,Trousers,Wide Leg,Pink,Adult,Summer,Linen,248,238,4.2,0,Topshop,10,11/15/2023,236,11,2023
+404,404,Autumn Dress with Lace Detailing,Female,Dresses,Lace Detailing,Purple,Adult,Autumn,Silk,249,239,4.5,0,Ralph Lauren,5,11/15/2023,237,11,2023
+405,405,Winter Blouse with Lace Trim,Female,Blouses,Lace Trim,White,Adult,Winter,Silk,250,240,4.4,1,Michael Kors,10,1/15/2024,238,1,2024
+406,406,Spring Jacket with Fringe Sleeves,Female,Jackets,Fringe Sleeves,Blue,Adult,Spring,Leather,251,241,4.3,0,Versace,5,6/15/2023,239,6,2023
+407,407,Summer Skirt with Tie Waist,Female,Skirts,Tie Waist,Yellow,Adult,Summer,Cotton,252,242,4.1,0,Forever 21,10,10/15/2023,240,10,2023
+408,408,Autumn Blouse with Paisley Print,Female,Blouses,Paisley Print,Brown,Adult,Autumn,Silk,253,243,4.6,0,Anne Klein,10,2/15/2024,241,2,2024
+409,409,Winter Coat with Fur Collar,Female,Coats,Fur Collar,Black,Adult,Winter,Wool,254,244,4.7,0,Gucci,5,3/15/2024,242,3,2024
+410,410,Spring Dress with Floral Print,Female,Dresses,Floral Print,Red,Adult,Spring,Cotton,255,245,4.4,0,Diane von Furstenberg,10,8/15/2023,243,8,2023
+411,411,Summer Top with Lace Overlay,Female,Tops,Lace Overlay,White,Adult,Summer,Cotton,256,246,4.3,0,Zara,5,12/15/2023,244,12,2023
+412,412,Autumn Jacket with Quilted Detailing,Female,Jackets,Quilted Detailing,Grey,Adult,Autumn,Leather,257,247,4.5,0,Calvin Klein,10,1/15/2024,245,1,2024
+413,413,Winter Boots with Fur Lining,Female,Boots,Fur Lining,Beige,Adult,Winter,Leather,258,248,4.8,0,Ugg,5,2/15/2024,246,2,2024
+414,414,Spring Skirt with Stripes,Female,Skirts,Stripes,Blue,Adult,Spring,Cotton,259,249,4.2,0,H&M,10,6/15/2023,247,6,2023
+415,415,Summer Pants with Elastic Waist,Female,Pants,Elastic Waist,Green,Adult,Summer,Cotton,260,250,4,0,Old Navy,5,7/15/2023,248,7,2023
+416,416,Autumn Sweater with Turtleneck,Female,Sweaters,Turtleneck,Pink,Adult,Autumn,Wool,261,251,4.7,0,Everlane,10,3/15/2024,250,3,2024
+417,417,Winter Hat with Faux Fur Trim,Female,Hats,Faux Fur Trim,White,Adult,Winter,Acrylic,262,252,4.6,0,The North Face,5,1/15/2024,251,1,2024
+418,418,Spring Scarf with Tassels,Female,Scarves,Tassels,Multi,Adult,Spring,Cashmere,263,253,4.4,0,J.Crew,10,9/15/2023,252,9,2023
+419,419,Summer Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Summer,Cotton,264,254,4.3,0,Zara,10,8/15/2023,253,8,2023
+420,420,Autumn Skirt with Plaid Pattern,Female,Skirts,Plaid,Burgundy,Adult,Autumn,Wool,265,255,4.6,0,J.Crew,5,4/15/2024,254,4,2024
+421,421,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Black,Adult,Winter,Leather,266,256,4.8,0,The North Face,10,2/15/2024,255,2,2024
+422,422,Spring Jacket with Floral Embroidery,Female,Jackets,Floral Embroidery,Blue,Adult,Spring,Silk,267,257,4.5,0,Mango,5,12/15/2023,256,12,2023
+423,423,Summer Blouse with Lace Trim,Female,Blouses,Lace Trim,White,Adult,Summer,Silk,268,258,4.4,0,H&M,10,10/15/2023,257,10,2023
+424,424,Autumn Top with Tie Detailing,Female,Tops,Tie Detailing,Brown,Adult,Autumn,Cotton,269,259,4.1,0,Old Navy,5,5/15/2024,258,5,2024
+425,425,Winter Coat with Sherpa Lining,Female,Coats,Sherpa Lining,Grey,Adult,Winter,Leather,270,260,4.7,0,Calvin Klein,10,3/15/2024,259,3,2024
+426,426,Spring Jacket with Floral Lining,Female,Jackets,Floral Lining,Green,Adult,Spring,Silk,271,261,4.6,0,Zara,5,11/15/2023,260,11,2023
+427,427,Summer Dress with Ruffles,Female,Dresses,Ruffles,Yellow,Adult,Summer,Cotton,272,262,4.2,0,J.Crew,10,9/15/2023,261,9,2023
+428,428,Autumn Skirt with Fringe Detailing,Female,Skirts,Fringe Detailing,Red,Adult,Autumn,Wool,273,263,4.4,0,Mango,5,6/15/2024,262,6,2024
+429,429,Winter Coat with Quilted Lining,Female,Coats,Quilted Lining,Black,Adult,Winter,Leather,274,264,4.9,0,The North Face,10,2/15/2024,263,2,2024
+430,430,Spring Top with Tie Dye Pattern,Female,Tops,Tie Dye,Blue,Adult,Spring,Cotton,275,265,4.3,0,Uniqlo,5,12/15/2023,264,12,2023
+431,431,Summer Skirt with Lace Overlay,Female,Skirts,Lace Overlay,Pink,Adult,Summer,Silk,276,266,4.5,0,Forever 21,10,8/15/2023,265,8,2023
+432,432,Autumn Jacket with Faux Fur Lining,Female,Jackets,Faux Fur Lining,Brown,Adult,Autumn,Leather,277,267,4.6,0,H&M,5,7/15/2024,266,7,2024
+433,433,Winter Dress with Fleece Lining,Female,Dresses,Fleece Lining,Grey,Adult,Winter,Wool,278,268,4.8,0,The North Face,10,1/15/2024,267,1,2024
+434,434,Spring Blouse with Floral Pattern,Female,Blouses,Floral,Green,Adult,Spring,Silk,279,269,4.4,0,Zara,5,11/15/2023,268,11,2023
+435,435,Summer Pants with Tie Dye Pattern,Female,Pants,Tie Dye,Purple,Adult,Summer,Cotton,280,270,4.2,0,Old Navy,10,9/15/2023,269,9,2023
+436,436,Autumn Dress with Lace Overlay,Female,Dresses,Lace Overlay,White,Adult,Autumn,Silk,281,271,4.5,0,Mango,5,8/15/2024,270,8,2024
+437,437,Winter Coat with Sherpa Lining,Female,Coats,Sherpa Lining,Red,Adult,Winter,Leather,282,272,4.7,0,Calvin Klein,10,3/15/2024,271,3,2024
+438,438,Spring Jacket with Floral Lining,Female,Jackets,Floral Lining,Yellow,Adult,Spring,Silk,283,273,4.6,0,J.Crew,5,10/15/2023,272,10,2023
+439,439,Summer Skirt with Ruffles,Female,Skirts,Ruffles,Pink,Adult,Summer,Cotton,284,274,4.3,0,H&M,10,7/15/2023,273,7,2023
+440,440,Autumn Top with Tie Detailing,Female,Tops,Tie Detailing,Black,Adult,Autumn,Cotton,285,275,4.4,0,Uniqlo,5,6/15/2024,274,6,2024
+441,441,Spring Blouse with Geometric Pattern,Female,Blouses,Geometric,Blue,Adult,Spring,Polyester,286,276,4.3,1,Forever 21,10,12/15/2023,275,12,2023
+442,442,Summer Dress with Stripes Pattern,Female,Dresses,Stripes,Gray,Adult,Summer,Linen,287,277,4.1,2,Zara,5,8/15/2023,276,8,2023
+443,443,Autumn Jacket with Fringe,Female,Jackets,Fringe,Brown,Adult,Autumn,Leather,288,278,4.6,0,Gucci,10,4/15/2024,277,4,2024
+444,444,Winter Top with Fur Trim,Female,Tops,Fur Trim,White,Adult,Winter,Wool,289,279,4.4,3,Burberry,5,2/15/2024,278,2,2024
+445,445,Spring Skirt with Polka Dots,Female,Skirts,Polka Dots,Black,Adult,Spring,Cotton,290,280,4.2,1,H&M,10,11/15/2023,279,11,2023
+446,446,Summer Pants with Embroidery,Female,Pants,Embroidery,Green,Adult,Summer,Silk,291,281,4.5,0,Mango,5,6/15/2023,280,6,2023
+447,447,Autumn Dress with Lace,Female,Dresses,Lace,Red,Adult,Autumn,Silk,292,282,4.7,2,Calvin Klein,10,7/15/2024,281,7,2024
+448,448,Winter Coat with Faux Fur,Female,Coats,Faux Fur,Pink,Adult,Winter,Faux Fur,293,283,4.8,0,Prada,5,1/15/2024,282,1,2024
+449,449,Spring Jacket with Sequins,Female,Jackets,Sequins,Gold,Adult,Spring,Polyester,294,284,4.9,1,Versace,10,10/15/2023,283,10,2023
+450,450,Summer Blouse with Tie Dye,Female,Blouses,Tie Dye,Yellow,Adult,Summer,Cotton,295,285,4.6,0,Topshop,5,5/15/2023,284,5,2023
+451,451,Autumn Skirt with Animal Print,Female,Skirts,Animal Print,Brown,Adult,Autumn,Leather,296,286,4.4,1,Gucci,10,5/15/2024,285,5,2024
+452,452,Winter Pants with Velvet Finish,Female,Pants,Velvet Finish,Blue,Adult,Winter,Velvet,297,287,4.3,0,Michael Kors,5,3/15/2024,286,3,2024
+453,453,Spring Dress with Floral Print,Female,Dresses,Floral Print,Pink,Teen,Spring,Cotton,300,288,4.7,1,Zara,10,4/15/2023,287,4,2023
+454,454,Summer Blouse with Ruffles,Female,Blouses,Ruffles,White,Adult,Summer,Linen,301,289,4.8,0,H&M,5,6/15/2023,288,6,2023
+455,455,Autumn Jacket with Shearling,Female,Jackets,Shearling,Brown,Adult,Autumn,Shearling,302,290,4.6,1,Levi's,10,9/15/2023,289,9,2023
+456,456,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Black,Adult,Winter,Faux Fur,303,291,4.9,0,Coach,5,12/15/2023,290,12,2023
+457,457,Spring Skirt with Polka Dots,Female,Skirts,Polka Dots,Grey,Adult,Spring,Polyester,304,292,4.5,1,Forever 21,10,2/15/2024,291,2,2024
+458,458,Summer Shorts with Lace,Female,Shorts,Lace,Beige,Teen,Summer,Cotton,305,293,4.4,0,American Eagle,5,5/15/2024,292,5,2024
+459,459,Autumn Pants with Patchwork,Female,Pants,Patchwork,Blue,Adult,Autumn,Denim,306,294,4.7,1,Old Navy,10,8/15/2024,293,8,2024
+460,460,Winter Blouse with Silk Trim,Female,Blouses,Silk Trim,Gold,Adult,Winter,Silk,307,295,4.8,0,Ann Taylor,5,1/15/2024,294,1,2024
+461,461,Spring Coat with Tartan Pattern,Female,Coats,Tartan,Red,Adult,Spring,Wool,308,296,4.6,1,J.Crew,10,3/15/2024,295,3,2024
+462,462,Summer Dress with Tie Dye,Female,Dresses,Tie Dye,Green,Teen,Summer,Cotton,309,297,4.4,0,Urban Outfitters,5,6/15/2024,296,6,2024
+463,463,Autumn Jacket with Fringe,Female,Jackets,Fringe,Burgundy,Adult,Autumn,Leather,310,298,4.7,1,Free People,10,7/15/2024,297,7,2024
+464,464,Spring Blouse with Floral Pattern,Female,Blouses,Floral,Pink,Adult,Spring,Cotton,311,299,4.6,0,H&M,5,4/15/2024,298,4,2024
+465,465,Summer Skirt with Stripes,Female,Skirts,Stripes,Black,Teen,Summer,Polyester,312,300,4.5,1,Zara,10,6/15/2024,300,6,2024
+466,466,Autumn Pants with Animal Print,Female,Pants,Animal Print,Brown,Adult,Autumn,Leather,313,301,4.8,0,Mango,5,8/15/2024,301,8,2024
+467,467,Winter Coat with Faux Fur,Female,Coats,Faux Fur,White,Adult,Winter,Faux Fur,314,302,4.7,1,Nordstrom,10,1/15/2024,302,1,2024
+468,468,Spring Jacket with Patchwork,Female,Jackets,Patchwork,Blue,Adult,Spring,Denim,315,303,4.6,0,Uniqlo,5,3/15/2024,303,3,2024
+469,469,Summer Dress with Tie Dye,Female,Dresses,Tie Dye,Yellow,Teen,Summer,Cotton,316,304,4.5,1,Topshop,10,7/15/2024,304,7,2024
+470,470,Autumn Jacket with Embroidery,Female,Jackets,Embroidery,Green,Adult,Autumn,Silk,317,305,4.8,0,Everlane,5,9/15/2024,305,9,2024
+471,471,Winter Blouse with Lace,Female,Blouses,Lace,Red,Adult,Winter,Silk,318,306,4.7,1,J.Crew,10,2/15/2024,306,2,2024
+472,472,Spring Skirt with Ruffles,Female,Skirts,Ruffles,Pink,Adult,Spring,Cotton,319,307,4.6,0,ASOS,5,4/15/2024,307,4,2024
+473,473,Summer Shorts with Denim,Female,Shorts,Denim,Black,Teen,Summer,Denim,320,308,4.5,1,Abercrombie & Fitch,10,6/15/2024,308,6,2024
+474,474,Autumn Pants with Velvet,Female,Pants,Velvet,Purple,Adult,Autumn,Velvet,321,309,4.8,0,Anthropologie,5,8/15/2024,309,8,2024
+475,475,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Grey,Adult,Winter,Faux Fur,322,310,4.7,1,The North Face,10,1/15/2024,310,1,2024
+476,476,Spring Blouse with Floral Pattern,Female,Blouses,Floral,Blue,Adult,Spring,Silk,323,311,4.6,0,Zara,5,5/15/2024,311,5,2024
+477,477,Summer Dress with Stripes,Female,Dresses,Stripes,White,Teen,Summer,Cotton,324,312,4.5,1,Forever 21,10,7/15/2024,312,7,2024
+478,478,Autumn Jacket with Animal Print,Female,Jackets,Animal Print,Brown,Adult,Autumn,Leather,325,313,4.7,0,Gucci,5,9/15/2024,313,9,2024
+479,479,Winter Skirt with Faux Leather,Female,Skirts,Faux Leather,Black,Adult,Winter,Faux Leather,326,314,4.6,1,Mango,10,2/15/2024,314,2,2024
+480,480,Spring Pants with Lace,Female,Pants,Lace,White,Adult,Spring,Cotton,327,315,4.5,0,H&M,5,4/15/2024,315,4,2024
+481,481,Summer Blouse with Bows,Female,Blouses,Bows,Pink,Teen,Summer,Cotton,328,316,4.4,1,Fashion Nova,10,6/15/2024,316,6,2024
+482,482,Autumn Dress with Polka Dots,Female,Dresses,Polka Dots,Black,Adult,Autumn,Cotton,329,317,4.6,0,ASOS,5,8/15/2024,317,8,2024
+483,483,Winter Coat with Shearling,Female,Coats,Shearling,Brown,Adult,Winter,Shearling,330,318,4.7,1,Prada,10,3/15/2024,318,3,2024
+484,484,Spring Jacket with Denim,Female,Jackets,Denim,Blue,Adult,Spring,Denim,331,319,4.5,0,Levi's,5,5/15/2024,319,5,2024
+485,485,Summer Blouse with Ruffles,Female,Blouses,Ruffles,Yellow,Teen,Summer,Cotton,332,320,4.4,1,River Island,10,7/15/2024,320,7,2024
+486,486,Autumn Dress with Lace,Female,Dresses,Lace,White,Adult,Autumn,Cotton,333,321,4.6,0,Zara,5,9/15/2024,321,9,2024
+487,487,Winter Skirt with Sequins,Female,Skirts,Sequins,Silver,Adult,Winter,Sequins,334,322,4.5,1,Mango,10,2/15/2024,322,2,2024
+488,488,Spring Pants with Floral Print,Female,Pants,Floral Print,Red,Adult,Spring,Cotton,335,323,4.5,0,Forever 21,5,4/15/2024,323,4,2024
+489,489,Summer Dress with Stripes,Female,Dresses,Stripes,Blue,Teen,Summer,Cotton,336,324,4.4,1,ASOS,10,6/15/2024,324,6,2024
+490,490,Autumn Jacket with Faux Leather,Female,Jackets,Faux Leather,Black,Adult,Autumn,Faux Leather,337,325,4.6,0,Zara,5,8/15/2024,325,8,2024
+491,491,Winter Coat with Fur,Female,Coats,Fur,Grey,Adult,Winter,Fur,338,326,4.7,1,Prada,10,3/15/2024,326,3,2024
+492,492,Spring Skirt with Polka Dots,Female,Skirts,Polka Dots,White,Adult,Spring,Cotton,339,327,4.5,0,H&M,5,5/15/2024,327,5,2024
+493,493,Summer Blouse with Lace,Female,Blouses,Lace,Pink,Teen,Summer,Cotton,340,328,4.4,1,Fashion Nova,10,7/15/2024,328,7,2024
+494,494,Autumn Dress with Velvet,Female,Dresses,Velvet,Burgundy,Adult,Autumn,Velvet,341,329,4.6,0,ASOS,5,9/15/2024,329,9,2024
+495,495,Winter Pants with Fleece,Female,Pants,Fleece,Green,Adult,Winter,Fleece,342,330,4.5,1,Uniqlo,10,2/15/2024,330,2,2024
+496,496,Spring Top with Ruffles,Female,Tops,Ruffles,Yellow,Teen,Spring,Cotton,343,331,4.4,0,River Island,5,4/15/2024,331,4,2024
+497,497,Summer Pants with Tie Dye,Female,Pants,Tie Dye,Purple,Adult,Summer,Cotton,344,332,4.5,1,Boohoo,10,6/15/2024,332,6,2024
+498,498,Autumn Blouse with Paisley Print,Female,Blouses,Paisley Print,Brown,Adult,Autumn,Silk,345,333,4.6,0,Mango,5,8/15/2024,333,8,2024
+499,499,Winter Jacket with Down,Female,Jackets,Down,White,Adult,Winter,Down,346,334,4.7,1,The North Face,10,3/15/2024,334,3,2024
+500,500,Spring Dress with Floral Print,Female,Dresses,Floral Print,Red,Teen,Spring,Cotton,347,335,4.4,0,Zara,5,5/15/2024,335,5,2024
+501,501,Summer Skirt with Gingham,Female,Skirts,Gingham,Blue,Adult,Summer,Polyester,348,336,4.5,1,Forever 21,10,7/15/2024,336,7,2024
+502,502,Autumn Jacket with Shearling,Female,Jackets,Shearling,Black,Adult,Autumn,Shearling,349,337,4.6,0,Patagonia,5,10/15/2024,337,10,2024
+503,503,Winter Hat with Faux Fur,Female,Accessories,Faux Fur,Grey,Adult,Winter,Faux Fur,350,338,4.5,1,Ugg,10,1/15/2024,338,1,2024
+504,504,Spring Sneakers with Stripes,Female,Shoes,Stripes,White,Teen,Spring,Leather,351,339,4.4,0,Adidas,5,4/15/2024,339,4,2024
+505,505,Summer Sandals with Tassels,Female,Shoes,Tassels,Brown,Adult,Summer,Leather,352,340,4.5,1,Steve Madden,10,6/15/2024,340,6,2024
+506,506,Autumn Boots with Lace Up,Female,Shoes,Lace Up,Burgundy,Adult,Autumn,Leather,353,341,4.6,0,Dr. Martens,5,9/15/2024,341,9,2024
+507,507,Winter Coat with Faux Leather,Female,Coats,Faux Leather,Black,Adult,Winter,Faux Leather,354,342,4.7,1,Guess,10,2/15/2024,342,2,2024
+508,508,Spring Blouse with Lace Trim,Female,Blouses,Lace Trim,Pink,Teen,Spring,Cotton,355,343,4.4,0,ASOS,5,5/15/2024,343,5,2024
+509,509,Summer Dress with Ruffle Sleeves,Female,Dresses,Ruffle Sleeves,Yellow,Adult,Summer,Cotton,356,344,4.5,1,H&M,10,7/15/2024,344,7,2024
+510,510,Autumn Trousers with Patchwork,Female,Trousers,Patchwork,Green,Adult,Autumn,Cotton,357,345,4.6,0,Zara,5,10/15/2024,345,10,2024
+511,511,Winter Scarf with Faux Fur,Female,Accessories,Faux Fur,White,Adult,Winter,Faux Fur,358,346,4.5,1,Ugg,10,1/15/2024,346,1,2024
+512,512,Spring Skirt with Floral Print,Female,Skirts,Floral Print,Blue,Teen,Spring,Cotton,359,347,4.3,0,Forever 21,5,4/15/2024,347,4,2024
+513,513,Summer Dress with Bold Stripes,Female,Dresses,Bold Stripes,Red,Adult,Summer,Cotton,360,348,4.4,1,Mango,10,6/15/2024,348,6,2024
+514,514,Autumn Jacket with Faux Leather,Female,Jackets,Faux Leather,Black,Adult,Autumn,Faux Leather,361,349,4.5,0,Michael Kors,5,8/15/2024,349,8,2024
+515,515,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Grey,Adult,Winter,Faux Fur,362,350,4.6,1,Coach,10,3/15/2024,350,3,2024
+516,516,Spring Top with Lace Detail,Female,Tops,Lace Detail,White,Adult,Spring,Cotton,363,351,4.2,0,River Island,5,5/15/2024,351,5,2024
+517,517,Summer Trousers with Embroidery,Female,Trousers,Embroidery,Pink,Teen,Summer,Cotton,364,352,4.4,1,Boohoo,10,7/15/2024,352,7,2024
+518,518,Autumn Hat with Pom Pom,Female,Hats,Pom Pom,Brown,Adult,Autumn,Wool,365,353,4.1,0,Topshop,5,9/15/2024,353,9,2024
+519,519,Winter Boots with Fur Lining,Female,Boots,Fur Lining,Beige,Adult,Winter,Leather,366,354,4.3,1,Keds,10,1/15/2024,354,1,2024
+520,520,Spring Blouse with Ruffles,Female,Blouses,Ruffles,Lavender,Adult,Spring,Silk,367,355,4.5,0,Zara,5,4/15/2024,355,4,2024
+521,521,Summer Dress with Floral Print,Female,Dresses,Floral Print,Pink,Teen,Summer,Cotton,368,356,4.4,1,ASOS,10,6/15/2024,356,6,2024
+522,522,Autumn Jacket with Belt,Female,Jackets,Belted,Green,Adult,Autumn,Leather,369,357,4.6,0,Jacquemus,5,8/15/2024,357,8,2024
+523,523,Spring Jumpsuit with Lace Trim,Female,Jumpsuits,Lace Trim,Blue,Adult,Spring,Cotton,370,358,4.3,0,Mango,5,4/16/2024,358,4,2024
+524,524,Summer Skirt with Tie Waist,Female,Skirts,Tie Waist,Yellow,Teen,Summer,Linen,371,359,4.2,1,Forever 21,10,6/16/2024,359,6,2024
+525,525,Autumn Coat with Fringe,Female,Coats,Fringe,Burgundy,Adult,Autumn,Wool,372,360,4.4,0,Gucci,5,9/16/2024,360,9,2024
+526,526,Winter Sweater with Pockets,Female,Sweaters,Pockets,Gray,Adult,Winter,Wool,373,361,4.5,1,The North Face,10,1/16/2024,361,1,2024
+527,527,Spring Cardigan with Lace Trim,Female,Cardigans,Lace Trim,Pink,Adult,Spring,Cotton,374,362,4.3,0,H&M,5,5/16/2024,362,5,2024
+528,528,Summer Dress with Stripes,Female,Dresses,Stripes,Red,Teen,Summer,Cotton,375,363,4.4,1,H&M,10,7/16/2024,363,7,2024
+529,529,Autumn Blouse with Lace Detail,Female,Blouses,Lace Detail,Black,Adult,Autumn,Silk,376,364,4.5,0,Zara,5,8/16/2024,364,8,2024
+530,530,Winter Coat with Faux Fur,Female,Coats,Faux Fur,White,Adult,Winter,Leather,377,365,4.6,1,Prada,10,2/16/2024,365,2,2024
+531,531,Spring Dress with Floral Print,Female,Dresses,Floral Print,Green,Adult,Spring,Cotton,378,366,4.4,0,ASOS,5,4/16/2024,366,4,2024
+532,532,Summer Skirt with Ruffle Hem,Female,Skirts,Ruffle Hem,Blue,Teen,Summer,Linen,379,367,4.2,1,Forever 21,10,6/16/2024,367,6,2024
+533,533,Autumn Jacket with Fringe Detail,Female,Jackets,Fringe Detail,Brown,Adult,Autumn,Leather,380,368,4.3,0,Mango,5,9/16/2024,368,9,2024
+534,534,Winter Hat with Pom Pom,Female,Hats,Pom Pom,White,Adult,Winter,Wool,381,369,4.1,1,Topshop,10,1/16/2024,369,1,2024
+535,535,Spring Jumpsuit with Floral Print,Female,Jumpsuits,Floral Print,Yellow,Adult,Spring,Cotton,382,370,4.4,0,ASOS,5,3/16/2024,370,3,2024
+536,536,Summer Tunic with Tassels,Female,Tunics,Tassels,Orange,Teen,Summer,Linen,383,371,4.3,1,Forever 21,10,5/16/2024,371,5,2024
+537,537,Autumn Blouse with Lace Overlay,Female,Blouses,Lace Overlay,Grey,Adult,Autumn,Silk,384,372,4.5,0,Zara,5,7/16/2024,372,7,2024
+538,538,Winter Coat with Fur Hood,Female,Coats,Fur Hood,Black,Adult,Winter,Leather,385,373,4.6,1,Prada,10,2/16/2024,373,2,2024
+539,539,Spring Dress with Stripes,Female,Dresses,Stripes,Pink,Adult,Spring,Cotton,386,374,4.3,0,H&M,5,4/16/2024,374,4,2024
+540,540,Summer Skirt with Ruffled Hem,Female,Skirts,Ruffled Hem,Red,Teen,Summer,Linen,387,375,4.2,1,Forever 21,10,6/16/2024,375,6,2024
+541,541,Autumn Jacket with Fringe Detail,Female,Jackets,Fringe Detail,Blue,Adult,Autumn,Leather,388,376,4.4,0,Mango,5,8/16/2024,376,8,2024
+542,542,Winter Hat with Feathers,Female,Hats,Feathers,White,Adult,Winter,Wool,389,377,4.1,1,Topshop,10,1/16/2024,377,1,2024
+543,543,Spring Cardigan with Lace Trim,Female,Cardigans,Lace Trim,Green,Adult,Spring,Cotton,390,378,4.3,0,ASOS,5,3/16/2024,378,3,2024
+544,544,Summer Dress with Polka Dots,Female,Dresses,Polka Dots,Black,Teen,Summer,Cotton,391,379,4.4,1,Forever 21,10,5/16/2024,379,5,2024
+545,545,Autumn Blouse with Lace Sleeves,Female,Blouses,Lace Sleeves,Grey,Adult,Autumn,Silk,392,380,4.5,0,Zara,5,7/16/2024,380,7,2024
+546,546,Winter Coat with Fur Lining,Female,Coats,Fur Lining,Brown,Adult,Winter,Leather,393,381,4.6,1,Prada,10,2/16/2024,381,2,2024
+547,547,Spring Jacket with Floral Print,Female,Jackets,Floral Print,Pink,Teen,Spring,Cotton,394,382,4.3,0,H&M,5,4/16/2024,382,4,2024
+548,548,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Yellow,Adult,Summer,Cotton,395,383,4.4,1,Zara,10,6/16/2024,383,6,2024
+549,549,Autumn Pants with Wide Leg,Female,Pants,Wide Leg,Blue,Adult,Autumn,Wool,396,384,4.5,0,Mango,5,8/16/2024,384,8,2024
+550,550,Winter Cardigan with Fringe Hem,Female,Cardigans,Fringe Hem,White,Adult,Winter,Wool,397,385,4.2,1,ASOS,10,1/16/2024,385,1,2024
+551,551,Spring Skirt with Pleats,Female,Skirts,Pleats,Green,Teen,Spring,Linen,398,386,4.3,0,Forever 21,5,3/16/2024,386,3,2024
+552,552,Summer Top with Cut Outs,Female,Tops,Cut Outs,Red,Adult,Summer,Cotton,399,387,4.4,1,Topshop,10,5/16/2024,387,5,2024
+553,553,Autumn Dress with Lace Overlay,Female,Dresses,Lace Overlay,Grey,Adult,Autumn,Silk,400,388,4.5,0,Zara,5,7/16/2024,388,7,2024
+554,554,Winter Boots with Fur Lining,Female,Boots,Fur Lining,Black,Adult,Winter,Leather,401,389,4.6,1,Prada,10,2/16/2024,389,2,2024
+555,555,Spring Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Pink,Teen,Spring,Cotton,402,390,4.3,0,H&M,5,4/16/2024,390,4,2024
+556,556,Summer Shorts with Lace Trim,Female,Shorts,Lace Trim,Blue,Adult,Summer,Cotton,403,391,4.4,1,Zara,10,6/16/2024,391,6,2024
+557,557,Autumn Pants with Embroidery,Female,Pants,Embroidery,Green,Adult,Autumn,Wool,404,392,4.5,0,Mango,5,8/16/2024,392,8,2024
+558,558,Winter Coat with Faux Fur,Female,Coats,Faux Fur,White,Adult,Winter,Leather,405,393,4.6,1,Prada,10,1/16/2024,393,1,2024
+559,559,Spring Skirt with Floral Print,Female,Skirts,Floral Print,Yellow,Adult,Spring,Cotton,406,394,4.2,0,Topshop,5,4/17/2024,394,4,2024
+560,560,Summer Dress with Ruffle Sleeves,Female,Dresses,Ruffle Sleeves,Purple,Teen,Summer,Polyester,407,395,4.1,1,H&M,10,6/17/2024,395,6,2024
+561,561,Autumn Jacket with Quilted Design,Female,Jackets,Quilted Design,Brown,Adult,Autumn,Leather,408,396,4.3,0,Zara,5,8/17/2024,396,8,2024
+562,562,Winter Cardigan with Fringe Detail,Female,Cardigans,Fringe Detail,Grey,Adult,Winter,Wool,409,397,4.4,1,Mango,10,2/17/2024,397,2,2024
+563,563,Spring Top with Tie Sleeves,Female,Tops,Tie Sleeves,Green,Adult,Spring,Cotton,410,398,4.5,0,Zara,5,4/18/2024,398,4,2024
+564,564,Summer Dress with Lace Overlay,Female,Dresses,Lace Overlay,White,Teen,Summer,Silk,411,399,4.6,1,Topshop,10,7/18/2024,399,7,2024
+565,565,Autumn Pants with Lace Detail,Female,Pants,Lace Detail,Black,Adult,Autumn,Leather,412,400,4.4,0,Prada,5,9/18/2024,400,9,2024
+566,566,Winter Coat with Fur Lining,Female,Coats,Fur Lining,Red,Adult,Winter,Leather,413,401,4.5,1,Mango,10,3/18/2024,401,3,2024
+567,567,Spring Skirt with Gingham Print,Female,Skirts,Gingham Print,Blue,Adult,Spring,Cotton,414,402,4.3,0,H&M,5,5/18/2024,402,5,2024
+568,568,Summer Top with Fringe Detail,Female,Tops,Fringe Detail,Pink,Teen,Summer,Polyester,415,403,4.2,1,Zara,10,6/19/2024,403,6,2024
+569,569,Autumn Jacket with Patchwork Design,Female,Jackets,Patchwork Design,Brown,Adult,Autumn,Leather,416,404,4.4,0,Prada,5,10/19/2024,404,10,2024
+570,570,Spring Dress with Floral Print,Female,Dresses,Floral Print,Yellow,Teen,Spring,Cotton,417,405,4.6,1,Topshop,10,4/20/2024,405,4,2024
+571,571,Summer Skirt with Stripe Pattern,Female,Skirts,Stripe Pattern,Grey,Adult,Summer,Silk,418,406,4.3,0,Mango,5,7/20/2024,406,7,2024
+572,572,Autumn Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Black,Adult,Autumn,Leather,419,407,4.4,1,Zara,10,9/20/2024,407,9,2024
+573,573,Winter Top with Velvet Texture,Female,Tops,Velvet Texture,Purple,Teen,Winter,Velvet,420,408,4.2,0,H&M,5,2/20/2024,408,2,2024
+574,574,Spring Pants with Lace Detail,Female,Pants,Lace Detail,White,Adult,Spring,Cotton,421,409,4.5,1,Prada,10,5/20/2024,409,5,2024
+575,575,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Red,Teen,Summer,Polyester,422,410,4.1,0,Zara,5,6/21/2024,410,6,2024
+576,576,Autumn Jacket with Shearling Lining,Female,Jackets,Shearling Lining,Brown,Adult,Autumn,Leather,423,411,4.4,1,Mango,10,10/21/2024,411,10,2024
+577,577,Winter Skirt with Velvet Pattern,Female,Skirts,Velvet Pattern,Blue,Teen,Winter,Velvet,424,412,4.3,0,H&M,5,3/21/2024,412,3,2024
+578,578,Spring Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Green,Adult,Spring,Silk,425,413,4.5,1,Topshop,10,4/22/2024,413,4,2024
+579,579,Summer Top with Lace Trim,Female,Tops,Lace Trim,Pink,Teen,Summer,Cotton,426,414,4.2,0,Zara,5,7/22/2024,414,7,2024
+580,580,Autumn Pants with Wide Leg,Female,Pants,Wide Leg,Black,Adult,Autumn,Leather,427,415,4.4,1,Prada,10,9/22/2024,415,9,2024
+581,581,Winter Coat with Faux Fur Hood,Female,Coats,Faux Fur Hood,Grey,Adult,Winter,Polyester,428,416,4.3,0,Mango,5,1/22/2024,416,1,2024
+582,582,Spring Dress with Floral Print,Female,Dresses,Floral Print,Pink,Teen,Spring,Cotton,429,417,4.6,1,H&M,10,5/23/2024,417,5,2024
+583,583,Summer Shorts with Tie Waist,Female,Shorts,Tie Waist,Blue,Adult,Summer,Cotton,430,418,4.4,0,Zara,5,6/23/2024,418,6,2024
+584,584,Autumn Skirt with Pleats,Female,Skirts,Pleats,Burgundy,Teen,Autumn,Wool,431,419,4.5,1,Topshop,10,10/23/2024,419,10,2024
+585,585,Winter Jacket with Fur Detail,Female,Jackets,Fur Detail,Brown,Adult,Winter,Leather,432,420,4.2,0,Prada,5,2/23/2024,420,2,2024
+586,586,Spring Blouse with Ruffles,Female,Blouses,Ruffles,White,Adult,Spring,Silk,433,421,4.5,1,Zara,10,4/24/2024,421,4,2024
+587,587,Summer Top with Lace Overlay,Female,Tops,Lace Overlay,Black,Teen,Summer,Cotton,434,422,4.1,0,H&M,5,7/24/2024,422,7,2024
+588,588,Autumn Pants with Pleats,Female,Pants,Pleats,Red,Adult,Autumn,Leather,435,423,4.3,1,Mango,10,9/24/2024,423,9,2024
+589,589,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Grey,Teen,Winter,Polyester,436,424,4.4,0,Topshop,5,1/24/2024,424,1,2024
+590,590,Spring Dress with Stripes,Female,Dresses,Stripes,Yellow,Adult,Spring,Cotton,437,425,4.6,1,Prada,10,5/25/2024,425,5,2024
+591,591,Summer Shorts with Lace Detail,Female,Shorts,Lace Detail,Green,Teen,Summer,Cotton,438,426,4.3,0,Zara,5,6/25/2024,426,6,2024
+592,592,Autumn Skirt with Velvet Pattern,Female,Skirts,Velvet Pattern,Purple,Adult,Autumn,Velvet,439,427,4.4,1,Topshop,10,10/25/2024,427,10,2024
+593,593,Winter Cardigan with Fringe Detail,Female,Cardigans,Fringe Detail,Blue,Adult,Winter,Wool,440,428,4.2,0,Prada,5,2/25/2024,428,2,2024
+594,594,Spring Jumpsuit with Floral Print,Female,Jumpsuits,Floral Print,Pink,Adult,Spring,Silk,441,429,4.5,1,Zara,10,4/26/2024,429,4,2024
+595,595,Summer Blouse with Lace Sleeves,Female,Blouses,Lace Sleeves,White,Teen,Summer,Cotton,442,430,4.1,0,H&M,5,7/26/2024,430,7,2024
+596,596,Autumn Jacket with Faux Leather Detail,Female,Jackets,Faux Leather Detail,Black,Adult,Autumn,Polyester,443,431,4.3,1,Mango,10,9/26/2024,431,9,2024
+597,597,Winter Boots with Fur Lining,Female,Boots,Fur Lining,Brown,Adult,Winter,Leather,444,432,4.4,0,Topshop,5,1/26/2024,432,1,2024
+598,598,Spring Pants with Ruffles,Female,Pants,Ruffles,Yellow,Adult,Spring,Cotton,445,433,4.6,1,Prada,10,5/27/2024,433,5,2024
+599,599,Summer Skirt with Lace Overlay,Female,Skirts,Lace Overlay,Green,Teen,Summer,Cotton,446,434,4.3,0,Zara,5,6/27/2024,434,6,2024
+600,600,Autumn Dress with Velvet Pattern,Female,Dresses,Velvet Pattern,Purple,Adult,Autumn,Velvet,447,435,4.4,1,Topshop,10,10/27/2024,435,10,2024
+601,601,Winter Cardigan with Embroidery Detail,Female,Cardigans,Embroidery Detail,Red,Adult,Winter,Wool,448,436,4.2,0,Prada,5,2/27/2024,436,2,2024
+602,602,Spring Trousers with Stripes,Female,Trousers,Stripes,Blue,Adult,Spring,Cotton,449,437,4.5,1,Zara,10,4/28/2024,437,4,2024
+603,603,Summer Blouse with Lace Detail,Female,Blouses,Lace Detail,White,Teen,Summer,Cotton,450,438,4.1,0,H&M,5,7/28/2024,438,7,2024
+604,604,Autumn Jacket with Fringe Detail,Female,Jackets,Fringe Detail,Black,Adult,Autumn,Leather,451,439,4.3,1,Topshop,10,9/28/2024,439,9,2024
+605,605,Winter Coat with Fur Hood,Female,Coats,Fur Hood,Gray,Adult,Winter,Leather,452,440,4.5,0,Prada,5,1/28/2024,440,1,2024
+606,606,Spring Skirt with Floral Pattern,Female,Skirts,Floral Pattern,Pink,Teen,Spring,Cotton,453,441,4.4,1,Zara,10,5/29/2024,441,5,2024
+607,607,Summer Dress with Tie Detail,Female,Dresses,Tie Detail,Yellow,Adult,Summer,Cotton,454,442,4.2,0,H&M,5,6/29/2024,442,6,2024
+608,608,Autumn Blouse with Lace Sleeves,Female,Blouses,Lace Sleeves,Red,Adult,Autumn,Silk,455,443,4.5,1,Topshop,10,10/29/2024,443,10,2024
+609,609,Winter Pants with Faux Leather Detail,Female,Pants,Faux Leather Detail,Brown,Adult,Winter,Polyester,456,444,4.3,0,Prada,5,2/29/2024,444,2,2024
+610,610,Spring Cardigan with Embroidery Detail,Female,Cardigans,Embroidery Detail,White,Adult,Spring,Cotton,457,445,4.4,1,Zara,10,4/30/2024,445,4,2024
+611,611,Summer Trousers with Lace Trim,Female,Trousers,Lace Trim,Blue,Teen,Summer,Cotton,458,446,4.2,0,H&M,5,7/30/2024,446,7,2024
+612,612,Autumn Jacket with Velvet Detail,Female,Jackets,Velvet Detail,Black,Adult,Autumn,Leather,459,447,4.3,1,Topshop,10,9/30/2024,447,9,2024
+613,613,Winter Coat with Faux Fur Detail,Female,Coats,Faux Fur Detail,Gray,Adult,Winter,Leather,460,448,4.5,0,Prada,5,1/31/2024,448,1,2024
+614,614,Spring Skirt with Tie Waist,Female,Skirts,Tie Waist,Pink,Teen,Spring,Cotton,461,449,4.4,1,Zara,10,5/31/2024,449,5,2024
+615,615,Autumn Blouse with Floral Embroidery,Female,Blouses,Floral Embroidery,Pink,Adult,Autumn,Silk,462,451,4.6,0,Topshop,10,11/1/2024,451,11,2024
+616,616,Winter Dress with Faux Fur Detail,Female,Dresses,Faux Fur Detail,Brown,Adult,Winter,Polyester,463,452,4.4,1,Prada,5,3/31/2024,452,3,2024
+617,617,Spring Cardigan with Lace Trim,Female,Cardigans,Lace Trim,White,Adult,Spring,Cotton,464,453,4.5,0,Zara,10,6/1/2024,453,6,2024
+618,618,Summer Top with Tie Sleeves,Female,Tops,Tie Sleeves,Yellow,Teen,Summer,Cotton,465,454,4.3,1,H&M,5,8/1/2024,454,8,2024
+619,619,Autumn Jacket with Shearling Detail,Female,Jackets,Shearling Detail,Black,Adult,Autumn,Leather,466,455,4.5,0,Topshop,10,10/1/2024,455,10,2024
+620,620,Winter Coat with Fur Collar,Female,Coats,Fur Collar,Gray,Adult,Winter,Leather,467,456,4.7,1,Prada,5,2/1/2024,456,2,2024
+621,621,Spring Skirt with Ruffled Hem,Female,Skirts,Ruffled Hem,Pink,Teen,Spring,Cotton,468,457,4.4,0,Zara,10,5/1/2024,457,5,2024
+622,622,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Blue,Adult,Summer,Cotton,469,458,4.6,1,H&M,5,7/1/2024,458,7,2024
+623,623,Autumn Blouse with Paisley Pattern,Female,Blouses,Paisley,Green,Adult,Autumn,Silk,470,459,4.5,0,Topshop,10,11/1/2024,459,11,2024
+624,624,Winter Cardigan with Faux Shearling Detail,Female,Cardigans,Faux Shearling Detail,Brown,Adult,Winter,Polyester,471,460,4.4,1,Prada,5,3/1/2024,460,3,2024
+625,625,Spring Jacket with Floral Print,Female,Jackets,Floral Print,Pink,Adult,Spring,Cotton,472,461,4.6,0,Zara,10,6/1/2024,461,6,2024
+626,626,Summer Dress with Floral Print,Female,Dresses,Floral Print,Yellow,Teen,Summer,Cotton,500,462,4.7,0,Zara,5,7/15/2024,462,7,2024
+627,627,Autumn Jacket with Animal Print,Female,Jackets,Animal Print,Brown,Adult,Autumn,Leather,501,463,4.4,1,Prada,10,10/20/2024,463,10,2024
+628,628,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Black,Adult,Winter,Polyester,502,464,4.6,0,Topshop,5,2/25/2024,464,2,2024
+629,629,Spring Skirt with Stripes,Female,Skirts,Stripes,Blue,Teen,Spring,Cotton,503,465,4.5,0,H&M,10,5/5/2024,465,5,2024
+630,630,Summer Blouse with Ruffles,Female,Blouses,Ruffles,White,Adult,Summer,Silk,504,466,4.7,1,Zara,5,8/1/2024,466,8,2024
+631,631,Autumn Cardigan with Fringe,Female,Cardigans,Fringe,Red,Adult,Autumn,Polyester,505,467,4.6,0,Prada,10,11/10/2024,467,11,2024
+632,632,Winter Hat with Faux Fur Trim,Female,Hats,Faux Fur Trim,Pink,Teen,Winter,Wool,506,468,4.5,1,Topshop,5,3/15/2024,468,3,2024
+633,633,Spring Scarf with Tassels,Female,Scarves,Tassels,Green,Adult,Spring,Cotton,507,469,4.7,0,H&M,10,6/8/2024,469,6,2024
+634,634,Summer Dress with Lace Overlay,Female,Dresses,Lace Overlay,Pink,Adult,Summer,Cotton,508,470,4.4,1,Zara,5,7/20/2024,470,7,2024
+635,635,Autumn Skirt with Pleats,Female,Skirts,Pleats,Brown,Teen,Autumn,Wool,509,471,4.6,0,Prada,10,10/5/2024,471,10,2024
+636,636,Winter Coat with Pockets,Female,Coats,Pockets,Black,Adult,Winter,Leather,510,472,4.5,1,Topshop,5,2/28/2024,472,2,2024
+637,637,Spring Jacket with Hood,Female,Jackets,Hood,Blue,Teen,Spring,Cotton,511,473,4.4,0,H&M,10,5/12/2024,473,5,2024
+638,638,Summer Jumpsuit with Tie Waist,Female,Jumpsuits,Tie Waist,Yellow,Adult,Summer,Linen,512,474,4.6,1,Zara,5,9/10/2024,474,9,2024
+639,639,Autumn Tunic with Lace Sleeves,Female,Tunics,Lace Sleeves,Gray,Teen,Autumn,Cotton,513,475,4.5,0,Prada,10,12/2/2024,475,12,2024
+640,640,Winter Leggings with Faux Leather Panels,Female,Leggings,Faux Leather Panels,Black,Adult,Winter,Nylon,514,476,4.4,1,Topshop,5,1/12/2024,476,1,2024
+641,641,Spring Blazer with Pockets,Female,Blazers,Pockets,Pink,Teen,Spring,Wool,515,477,4.7,0,H&M,10,4/25/2024,477,4,2024
+642,642,Summer Skirt with Gathered Waist,Female,Skirts,Gathered Waist,Red,Adult,Summer,Cotton,516,478,4.5,1,Zara,5,8/15/2024,478,8,2024
+643,643,Autumn Sweater with Cable Knit,Female,Sweaters,Cable Knit,Blue,Teen,Autumn,Wool,517,479,4.6,0,Prada,10,11/8/2024,479,11,2024
+644,644,Winter Jacket with Fur Trim,Female,Jackets,Fur Trim,Brown,Adult,Winter,Leather,518,480,4.5,1,Topshop,5,3/1/2024,480,3,2024
+645,645,Spring Dress with Ruffles,Female,Dresses,Ruffles,Green,Teen,Spring,Cotton,519,481,4.4,0,H&M,10,5/20/2024,481,5,2024
+646,646,Summer Shorts with Lace Trim,Female,Shorts,Lace Trim,White,Adult,Summer,Cotton,520,482,4.5,1,Zara,5,7/1/2024,482,7,2024
+647,647,Autumn Tunic with Fringe,Female,Tunics,Fringe,Pink,Teen,Autumn,Cotton,521,483,4.6,0,Prada,10,10/10/2024,483,10,2024
+648,648,Winter Coat with Hood,Female,Coats,Hood,Black,Adult,Winter,Leather,522,484,4.5,1,Topshop,5,2/15/2024,484,2,2024
+649,649,Spring Blazer with Pockets,Female,Blazers,Pockets,Yellow,Teen,Spring,Wool,523,485,4.6,0,H&M,10,4/26/2024,485,4,2024
+650,650,Summer Skirt with Ruffle Hem,Female,Skirts,Ruffle Hem,Orange,Adult,Summer,Linen,524,486,4.5,1,Zara,5,8/16/2024,486,8,2024
+651,651,Autumn Sweater with Lace Trim,Female,Sweaters,Lace Trim,Gray,Teen,Autumn,Cashmere,525,487,4.7,0,Prada,10,11/9/2024,487,11,2024
+652,652,Winter Jacket with Faux Fur Lining,Female,Jackets,Faux Fur Lining,Purple,Adult,Winter,Leather,526,488,4.5,1,Topshop,5,3/2/2024,488,3,2024
+653,653,Spring Dress with Flower Print,Female,Dresses,Flower Print,Blue,Teen,Spring,Cotton,527,489,4.4,0,H&M,10,5/21/2024,489,5,2024
+654,654,Summer Shorts with Bows,Female,Shorts,Bows,Green,Adult,Summer,Cotton,528,490,4.5,1,Zara,5,7/2/2024,490,7,2024
+655,655,Autumn Tunic with Lace Overlay,Female,Tunics,Lace Overlay,Red,Teen,Autumn,Cotton,529,491,4.6,0,Prada,10,10/11/2024,491,10,2024
+656,656,Winter Coat with Fur Collar,Female,Coats,Fur Collar,Black,Adult,Winter,Leather,530,492,4.5,1,Topshop,5,2/16/2024,492,2,2024
+657,657,Spring Jacket with Tassels,Female,Jackets,Tassels,Pink,Teen,Spring,Wool,531,493,4.6,0,H&M,10,4/27/2024,493,4,2024
+658,658,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Yellow,Adult,Summer,Cotton,532,494,4.5,1,Zara,5,8/17/2024,494,8,2024
+659,659,Autumn Sweater with Fringe,Female,Sweaters,Fringe,Brown,Teen,Autumn,Cashmere,533,495,4.7,0,Prada,10,11/10/2024,495,11,2024
+660,660,Winter Coat with Hoodie,Female,Coats,Hoodie,Gray,Adult,Winter,Leather,534,496,4.5,1,Topshop,5,3/3/2024,496,3,2024
+661,661,Spring Blouse with Floral Print,Female,Blouses,Floral Print,Pink,Adult,Spring,Cotton,535,497,4.4,0,Mango,10,5/8/2024,497,5,2024
+662,662,Summer Skirt with Gingham Pattern,Female,Skirts,Gingham,White,Teen,Summer,Cotton,536,498,4.5,1,Zara,5,7/10/2024,498,7,2024
+663,663,Autumn Cardigan with Lace Trim,Female,Cardigans,Lace Trim,Beige,Adult,Autumn,Wool,537,499,4.6,0,Prada,10,10/15/2024,499,10,2024
+664,664,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Black,Adult,Winter,Leather,538,500,4.5,1,Topshop,5,2/5/2024,500,2,2024
+665,665,Spring Dress with Stripes,Female,Dresses,Stripes,Blue,Teen,Spring,Cotton,539,501,4.4,0,H&M,10,4/22/2024,501,4,2024
+666,666,Summer Tunic with Tie Sleeves,Female,Tunics,Tie Sleeves,Green,Adult,Summer,Linen,540,502,4.5,1,Zara,5,6/19/2024,502,6,2024
+667,667,Autumn Jacket with Patchwork,Female,Jackets,Patchwork,Brown,Teen,Autumn,Wool,541,503,4.6,0,Prada,10,11/20/2024,503,11,2024
+668,668,Winter Coat with Hoodie and Faux Fur,Female,Coats,Hoodie and Faux Fur,Gray,Adult,Winter,Leather,542,504,4.5,1,Topshop,5,3/12/2024,504,3,2024
+669,669,Spring Blouse with Ruffles,Female,Blouses,Ruffles,Pink,Adult,Spring,Silk,543,505,4.4,0,Mango,10,5/25/2024,505,5,2024
+670,670,Summer Skirt with Polka Dots,Female,Skirts,Polka Dots,White,Teen,Summer,Cotton,544,506,4.5,1,Zara,5,8/3/2024,506,8,2024
+671,671,Autumn Cardigan with Fringe,Female,Cardigans,Fringe,Beige,Adult,Autumn,Cashmere,545,507,4.6,0,Prada,10,12/15/2024,507,12,2024
+672,672,Winter Coat with Fur Collar,Female,Coats,Fur Collar,Black,Adult,Winter,Leather,546,508,4.5,1,Topshop,5,1/20/2024,508,1,2024
+673,673,Summer Dress with Flower Print,Female,Dresses,Flower Print,Red,Adult,Summer,Cotton,547,509,4.5,0,Zara,10,7/25/2024,509,7,2024
+674,674,Autumn Skirt with Stripes,Female,Skirts,Stripes,Blue,Teen,Autumn,Denim,548,510,4.4,1,Prada,5,10/8/2024,510,10,2024
+675,675,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Purple,Adult,Winter,Wool,549,511,4.5,0,Topshop,10,2/15/2024,511,2,2024
+676,676,Spring Blouse with Lace Trim,Female,Blouses,Lace Trim,White,Adult,Spring,Silk,550,512,4.4,1,Mango,5,6/3/2024,512,6,2024
+677,677,Summer Pants with Embroidery,Female,Pants,Embroidery,Yellow,Teen,Summer,Linen,551,513,4.5,0,Zara,10,9/12/2024,513,9,2024
+678,678,Autumn Jacket with Patchwork Sleeve,Female,Jackets,Patchwork Sleeve,Green,Adult,Autumn,Leather,552,514,4.6,1,Prada,5,12/20/2024,514,12,2024
+679,679,Winter Coat with Faux Fur Hood,Female,Coats,Faux Fur Hood,Black,Adult,Winter,Leather,553,515,4.5,0,Topshop,10,1/28/2024,515,1,2024
+680,680,Spring Blouse with Floral Print,Female,Blouses,Floral Print,Pink,Adult,Spring,Silk,554,516,4.4,1,Mango,5,5/18/2024,516,5,2024
+681,681,Summer Dress with Bows,Female,Dresses,Bows,Pink,Teen,Summer,Cotton,555,517,4.5,0,Zara,10,8/24/2024,517,8,2024
+682,682,Autumn Skirt with Pleats,Female,Skirts,Pleats,Brown,Adult,Autumn,Wool,556,518,4.4,1,Prada,5,11/7/2024,518,11,2024
+683,683,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Red,Adult,Winter,Leather,557,519,4.5,0,Topshop,10,3/3/2024,519,3,2024
+684,684,Spring Blouse with Lace Overlay,Female,Blouses,Lace Overlay,Blue,Adult,Spring,Silk,558,520,4.4,1,Mango,5,7/1/2024,520,7,2024
+685,685,Spring Dress with Floral Embroidery,Female,Dresses,Floral Embroidery,Pink,Adult,Spring,Cotton,559,521,4.5,0,Zara,10,5/29/2024,521,5,2024
+686,686,Summer Blouse with Tie Detail,Female,Blouses,Tie Detail,Yellow,Teen,Summer,Cotton,560,522,4.6,1,H&M,5,9/15/2024,522,9,2024
+687,687,Autumn Jacket with Fringe Sleeve,Female,Jackets,Fringe Sleeve,Black,Adult,Autumn,Leather,561,523,4.7,0,Prada,10,11/12/2024,523,11,2024
+688,688,Winter Coat with Quilted Lining,Female,Coats,Quilted Lining,Gray,Adult,Winter,Leather,562,524,4.6,1,Topshop,5,2/22/2024,524,2,2024
+689,689,Spring Blouse with Ruffle Sleeve,Female,Blouses,Ruffle Sleeve,White,Adult,Spring,Silk,563,525,4.4,0,Mango,10,6/8/2024,525,6,2024
+690,690,Summer Dress with Stripes,Female,Dresses,Stripes,Blue,Teen,Summer,Cotton,564,526,4.3,1,Zara,5,8/28/2024,526,8,2024
+691,691,Autumn Skirt with Lace Overlay,Female,Skirts,Lace Overlay,Pink,Adult,Autumn,Wool,565,527,4.5,0,Prada,10,10/9/2024,527,10,2024
+692,692,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Brown,Adult,Winter,Leather,566,528,4.4,1,Topshop,10,4/4/2024,528,4,2024
+693,693,Spring Blouse with Paisley Print,Female,Blouses,Paisley Print,Green,Adult,Spring,Silk,567,529,4.6,0,Mango,5,7/15/2024,529,7,2024
+694,694,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Red,Teen,Summer,Cotton,568,530,4.4,1,Zara,10,9/19/2024,530,9,2024
+695,695,Autumn Jacket with Quilted Pattern,Female,Jackets,Quilted Pattern,Black,Adult,Autumn,Leather,569,531,4.5,0,Prada,5,12/2/2024,531,12,2024
+696,696,Summer Maxi Dress with Floral Print,Female,Dresses,Floral Print,Yellow,Adult,Summer,Cotton,570,532,4.7,1,Zara,10,11/6/2024,532,11,2024
+697,697,Winter Jumpsuit with Velvet Finish,Female,Jumpsuits,Velvet Finish,Black,Adult,Winter,Velvet,571,533,4.6,0,Mango,5,3/12/2024,533,3,2024
+698,698,Spring Cardigan with Lace Trim,Female,Cardigans,Lace Trim,White,Adult,Spring,Wool,572,534,4.8,1,Topshop,10,6/25/2024,534,6,2024
+699,699,Summer Blouse with Tie Neck,Female,Blouses,Tie Neck,Blue,Teen,Summer,Silk,573,535,4.5,0,H&M,5,8/1/2024,535,8,2024
+700,700,Autumn Skirt with Pleats,Female,Skirts,Pleats,Red,Adult,Autumn,Cotton,574,536,4.4,1,Prada,10,10/17/2024,536,10,2024
+701,701,Winter Jacket with Fur Lining,Female,Jackets,Fur Lining,Brown,Adult,Winter,Leather,575,537,4.7,0,Gucci,5,1/3/2024,537,1,2024
+702,702,Spring Dress with Tie Belt,Female,Dresses,Tie Belt,Green,Teen,Spring,Cotton,576,538,4.6,1,Zara,10,7/22/2024,538,7,2024
+703,703,Summer Top with Ruffle Hem,Female,Tops,Ruffle Hem,Pink,Adult,Summer,Silk,577,539,4.5,0,Mango,5,9/10/2024,539,9,2024
+704,704,Autumn Jacket with Faux Leather Sleeves,Female,Jackets,Faux Leather Sleeves,Black,Adult,Autumn,Leather,578,540,4.7,1,Topshop,10,12/8/2024,540,12,2024
+705,705,Spring Skirt with Lace Overlay,Female,Skirts,Lace Overlay,White,Adult,Spring,Wool,579,541,4.8,0,Prada,5,4/5/2024,541,4,2024
+706,706,Summer Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Yellow,Teen,Summer,Silk,580,542,4.5,1,H&M,10,8/28/2024,542,8,2024
+707,707,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Gray,Adult,Winter,Wool,581,543,4.6,0,Gucci,5,1/15/2024,543,1,2024
+708,708,Spring Dress with Floral Pattern,Female,Dresses,Floral Pattern,Blue,Teen,Spring,Cotton,582,544,4.7,1,Zara,10,5/12/2024,544,5,2024
+709,709,Summer Jumpsuit with Tie Waist,Female,Jumpsuits,Tie Waist,Pink,Adult,Summer,Silk,583,545,4.4,0,Mango,5,6/26/2024,545,6,2024
+710,710,Autumn Blouse with Lace Trim,Female,Blouses,Lace Trim,Black,Adult,Autumn,Cotton,584,546,4.8,1,H&M,10,11/3/2024,546,11,2024
+711,711,Winter Cardigan with Faux Shearling,Female,Cardigans,Faux Shearling,Brown,Adult,Winter,Wool,585,547,4.5,0,Topshop,5,2/1/2024,547,2,2024
+712,712,Spring Skirt with Stripes,Female,Skirts,Stripes,White,Teen,Spring,Cotton,586,548,4.7,1,Prada,10,4/20/2024,548,4,2024
+713,713,Summer Top with Tie Neck,Female,Tops,Tie Neck,Yellow,Adult,Summer,Silk,587,549,4.6,0,Mango,5,7/7/2024,549,7,2024
+714,714,Autumn Jacket with Patch Pockets,Female,Jackets,Patch Pockets,Red,Adult,Autumn,Leather,588,550,4.9,1,Gucci,10,10/10/2024,550,10,2024
+715,715,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Black,Adult,Winter,Wool,589,551,4.8,0,Zara,5,1/28/2024,551,1,2024
+716,716,Spring Dress with Ruffle Hem,Female,Dresses,Ruffle Hem,Green,Teen,Spring,Cotton,590,552,4.5,1,Topshop,10,6/1/2024,552,6,2024
+717,717,Summer Top with Bows,Female,Tops,Bows,Pink,Adult,Summer,Silk,591,553,4.7,0,H&M,5,8/14/2024,553,8,2024
+718,718,Winter Blouse with Faux Pearls,Female,Blouses,Faux Pearls,White,Adult,Winter,Cotton,592,554,4.6,0,Mango,5,2/12/2024,554,2,2024
+719,719,Spring Jacket with Floral Prints,Female,Jackets,Floral Prints,Blue,Teen,Spring,Denim,593,555,4.8,1,Prada,10,5/15/2024,555,5,2024
+720,720,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Yellow,Adult,Summer,Linen,594,556,4.7,0,Zara,5,9/5/2024,556,9,2024
+721,721,Autumn Pants with Embroidery,Female,Pants,Embroidery,Brown,Adult,Autumn,Wool,595,557,4.9,1,Gucci,10,11/18/2024,557,11,2024
+722,722,Winter Cardigan with Fringe,Female,Cardigans,Fringe,Gray,Adult,Winter,Cashmere,596,558,4.5,0,Topshop,5,3/25/2024,558,3,2024
+723,723,Spring Skirt with Polka Dots,Female,Skirts,Polka Dots,Black,Teen,Spring,Cotton,597,559,4.7,1,Chanel,10,7/1/2024,559,7,2024
+724,724,Summer Top with Lace Overlay,Female,Tops,Lace Overlay,Pink,Adult,Summer,Silk,598,560,4.6,0,Mango,5,10/8/2024,560,10,2024
+725,725,Autumn Jacket with Fur Hood,Female,Jackets,Fur Hood,Red,Adult,Autumn,Leather,599,561,4.9,1,Louis Vuitton,10,12/23/2024,561,12,2024
+726,726,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Black,Adult,Winter,Wool,600,562,4.8,0,Zara,5,1/22/2024,562,1,2024
+727,727,Spring Dress with Ruffles,Female,Dresses,Ruffles,Green,Teen,Spring,Cotton,601,563,4.5,1,Topshop,10,6/15/2024,563,6,2024
+728,728,Summer Top with Tassels,Female,Tops,Tassels,Blue,Adult,Summer,Silk,602,564,4.7,0,H&M,5,8/20/2024,564,8,2024
+729,729,Winter Boots with Fur Lining,Female,Boots,Fur Lining,Brown,Adult,Winter,Leather,603,565,4.8,0,Gucci,10,2/18/2024,565,2,2024
+730,730,Spring Blouse with Floral Print,Female,Blouses,Floral Print,Yellow,Adult,Spring,Silk,604,566,4.6,1,Chanel,5,5/3/2024,566,5,2024
+731,731,Summer Skirt with Ribbon Belt,Female,Skirts,Ribbon Belt,White,Teen,Summer,Cotton,605,567,4.7,0,Mango,10,9/1/2024,567,9,2024
+732,732,Autumn Scarf with Fringe,Female,Scarves,Fringe,Purple,Adult,Autumn,Wool,606,568,4.5,1,Zara,5,11/12/2024,568,11,2024
+733,733,Winter Cardigan with Patchwork,Female,Cardigans,Patchwork,Red,Adult,Winter,Cashmere,607,569,4.7,0,Topshop,10,3/25/2024,569,3,2024
+734,734,Spring Top with Lace Sleeves,Female,Tops,Lace Sleeves,Green,Teen,Spring,Silk,608,570,4.5,1,Chanel,5,7/1/2024,570,7,2024
+735,735,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Blue,Adult,Summer,Cotton,609,571,4.6,0,H&M,10,10/8/2024,571,10,2024
+736,736,Autumn Jacket with Embroidery,Female,Jackets,Embroidery,Black,Adult,Autumn,Leather,610,572,4.8,1,Louis Vuitton,10,12/23/2024,572,12,2024
+737,737,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Gray,Adult,Winter,Wool,611,573,4.7,0,Zara,5,1/22/2024,573,1,2024
+738,738,Spring Skirt with Tulle Overlay,Female,Skirts,Tulle Overlay,Pink,Teen,Spring,Cotton,612,574,4.5,1,Topshop,10,6/15/2024,574,6,2024
+739,739,Summer Top with Ruffle Sleeves,Female,Tops,Ruffle Sleeves,Yellow,Adult,Summer,Silk,613,575,4.7,0,Mango,5,8/20/2024,575,8,2024
+740,740,Autumn Blouse with Lace Detailing,Female,Blouses,Lace Detailing,Brown,Adult,Autumn,Cotton,614,576,4.6,0,Chanel,10,9/4/2024,576,9,2024
+741,741,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Navy Blue,Adult,Winter,Wool,615,577,4.8,1,Louis Vuitton,5,12/16/2024,577,12,2024
+742,742,Spring Dress with Floral Print,Female,Dresses,Floral Print,White,Teen,Spring,Cotton,616,578,4.5,0,H&M,10,4/9/2024,578,4,2024
+743,743,Summer Skirt with Tie Waist,Female,Skirts,Tie Waist,Black,Adult,Summer,Silk,617,579,4.7,1,Zara,5,7/25/2024,579,7,2024
+744,744,Autumn Jacket with Patchwork,Female,Jackets,Patchwork,Red,Adult,Autumn,Leather,618,580,4.8,0,Topshop,10,11/1/2024,580,11,2024
+745,745,Winter Cardigan with Ribbed Sleeves,Female,Cardigans,Ribbed Sleeves,Gray,Adult,Winter,Cashmere,619,581,4.7,1,Chanel,5,3/5/2024,581,3,2024
+746,746,Spring Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Pink,Teen,Spring,Silk,620,582,4.5,0,H&M,10,5/12/2024,582,5,2024
+747,747,Summer Dress with Bold Print,Female,Dresses,Bold Print,Green,Adult,Summer,Cotton,621,583,4.7,1,Zara,5,6/28/2024,583,6,2024
+748,748,Autumn Top with Tie Neck,Female,Tops,Tie Neck,Burgundy,Adult,Autumn,Cotton,622,584,4.6,0,Mango,10,10/7/2024,584,10,2024
+749,749,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Black,Adult,Winter,Wool,623,585,4.8,1,Louis Vuitton,5,12/27/2024,585,12,2024
+750,750,Spring Skirt with Ruffle Hem,Female,Skirts,Ruffle Hem,Blue,Teen,Spring,Cotton,624,586,4.5,0,Topshop,10,4/18/2024,586,4,2024
+751,751,Autumn Dress with Lace Detail,Female,Dresses,Lace Detail,Brown,Adult,Autumn,Cotton,625,587,4.7,0,H&M,10,11/2/2024,587,11,2024
+752,752,Winter Jumpsuit with Faux Leather,Female,Jumpsuits,Faux Leather,Black,Adult,Winter,Polyester,626,588,4.6,1,Chanel,5,2/24/2024,588,2,2024
+753,753,Spring Jacket with Floral Print,Female,Jackets,Floral Print,Yellow,Teen,Spring,Polyester,627,589,4.5,0,Zara,10,5/26/2024,589,5,2024
+754,754,Summer Tunic with Tie Waist,Female,Tunics,Tie Waist,Orange,Adult,Summer,Cotton,628,590,4.4,1,Mango,5,7/10/2024,590,7,2024
+755,755,Autumn Skirt with Fringe,Female,Skirts,Fringe,Red,Adult,Autumn,Leather,629,591,4.7,0,Topshop,10,10/15/2024,591,10,2024
+756,756,Winter Trousers with Stripe,Female,Trousers,Stripe,Gray,Adult,Winter,Wool,630,592,4.6,1,Chanel,5,3/17/2024,592,3,2024
+757,757,Spring Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Pink,Teen,Spring,Silk,631,593,4.5,0,H&M,10,4/29/2024,593,4,2024
+758,758,Summer Dress with Bold Print,Female,Dresses,Bold Print,Green,Adult,Summer,Cotton,632,594,4.7,1,Zara,5,6/22/2024,594,6,2024
+759,759,Autumn Top with Tie Neck,Female,Tops,Tie Neck,Burgundy,Adult,Autumn,Cotton,633,595,4.6,0,Mango,10,10/23/2024,595,10,2024
+760,760,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Black,Adult,Winter,Wool,634,596,4.8,1,Louis Vuitton,5,12/31/2024,596,12,2024
+761,761,Spring Skirt with Ruffle Hem,Female,Skirts,Ruffle Hem,Blue,Teen,Spring,Cotton,635,597,4.5,0,Topshop,10,4/6/2024,597,4,2024
+762,762,Summer Dress with Floral Print,Female,Dresses,Floral Print,Yellow,Adult,Summer,Cotton,636,598,4.7,0,Zara,5,7/15/2024,598,7,2024
+763,763,Autumn Blouse with Lace Sleeves,Female,Blouses,Lace Sleeves,Brown,Adult,Autumn,Silk,637,599,4.6,0,H&M,10,10/27/2024,599,10,2024
+764,764,Winter Jacket with Faux Fur Hood,Female,Jackets,Faux Fur Hood,Purple,Adult,Winter,Leather,638,600,4.8,1,Chanel,5,1/13/2024,600,1,2024
+765,765,Spring Jumpsuit with Tie Waist,Female,Jumpsuits,Tie Waist,Gray,Adult,Spring,Wool,639,601,4.5,0,Mango,10,4/20/2024,601,4,2024
+766,766,Summer Pants with Embroidery,Female,Pants,Embroidery,Pink,Teen,Summer,Cotton,640,602,4.6,0,Topshop,5,6/25/2024,602,6,2024
+767,767,Autumn Skirt with Lace Trim,Female,Skirts,Lace Trim,Green,Adult,Autumn,Silk,641,603,4.7,0,Zara,10,10/10/2024,603,10,2024
+768,768,Winter Cardigan with Fringe,Female,Cardigans,Fringe,White,Adult,Winter,Wool,642,604,4.6,0,Chanel,5,3/2/2024,604,3,2024
+769,769,Spring Top with Ruffle Sleeves,Female,Tops,Ruffle Sleeves,Red,Adult,Spring,Silk,643,605,4.5,0,H&M,10,4/25/2024,605,4,2024
+770,770,Summer Shorts with Stripe,Female,Shorts,Stripe,Blue,Teen,Summer,Cotton,644,606,4.7,0,Topshop,5,7/1/2024,606,7,2024
+771,771,Autumn Jacket with Faux Fur Collar,Female,Jackets,Faux Fur Collar,Black,Adult,Autumn,Leather,645,607,4.8,1,Zara,5,11/1/2024,607,11,2024
+772,772,Winter Dress with Lace Overlay,Female,Dresses,Lace Overlay,White,Adult,Winter,Satin,646,608,4.7,0,Chanel,10,2/10/2024,608,2,2024
+773,773,Spring Blouse with Floral Print,Female,Blouses,Floral Print,Yellow,Adult,Spring,Cotton,647,609,4.6,0,H&M,5,5/15/2024,609,5,2024
+774,774,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Pink,Teen,Summer,Cotton,648,610,4.5,0,Topshop,10,8/5/2024,610,8,2024
+775,775,Autumn Jacket with Fur Hood,Female,Jackets,Fur Hood,Brown,Adult,Autumn,Leather,649,611,4.7,1,Zara,5,12/1/2024,611,12,2024
+776,776,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Grey,Adult,Winter,Wool,650,612,4.6,0,Chanel,10,3/20/2024,612,3,2024
+777,777,Spring Skirt with Pleats,Female,Skirts,Pleats,Blue,Adult,Spring,Silk,651,613,4.5,0,H&M,5,6/10/2024,613,6,2024
+778,778,Summer Pants with Elastic Waist,Female,Pants,Elastic Waist,Black,Teen,Summer,Cotton,652,614,4.7,0,Topshop,10,9/1/2024,614,9,2024
+779,779,Autumn Top with Turtleneck,Female,Tops,Turtleneck,Red,Adult,Autumn,Wool,653,615,4.6,0,Zara,5,11/15/2024,615,11,2024
+780,780,Winter Cardigan with Pockets,Female,Cardigans,Pockets,Green,Adult,Winter,Wool,654,616,4.5,0,Chanel,10,2/25/2024,616,2,2024
+781,781,Spring Tunic with Lace Trim,Female,Tunics,Lace Trim,White,Adult,Spring,Silk,655,617,4.6,0,H&M,5,7/10/2024,617,7,2024
+782,782,Summer Blouse with Ruffles,Female,Blouses,Ruffles,Pink,Teen,Summer,Cotton,656,618,4.7,0,Topshop,10,10/5/2024,618,10,2024
+783,783,Autumn Dress with Ruching,Female,Dresses,Ruching,Brown,Adult,Autumn,Satin,657,619,4.5,1,Zara,5,1/15/2024,619,1,2024
+784,784,Spring Jumpsuit with Floral Pattern,Female,Jumpsuits,Floral,Yellow,Adult,Spring,Cotton,658,620,4.4,0,Mango,10,4/10/2024,620,4,2024
+785,785,Summer Dress with Gathered Waist,Female,Dresses,Gathered Waist,Purple,Teen,Summer,Cotton,659,621,4.7,0,Forever 21,5,8/1/2024,621,8,2024
+786,786,Autumn Jacket with Fringe,Female,Jackets,Fringe,Gray,Adult,Autumn,Leather,660,622,4.6,0,Gucci,10,3/15/2024,622,3,2024
+787,787,Winter Coat with Faux Fur,Female,Coats,Faux Fur,Black,Adult,Winter,Faux Fur,661,623,4.5,0,Prada,5,6/1/2024,623,6,2024
+788,788,Spring Romper with Lace,Female,Rompers,Lace,White,Adult,Spring,Cotton,662,624,4.4,0,ASOS,10,5/10/2024,624,5,2024
+789,789,Summer Top with Tie Sleeve,Female,Tops,Tie Sleeve,Red,Teen,Summer,Cotton,663,625,4.8,0,Shein,5,11/5/2024,625,11,2024
+790,790,Autumn Skirt with Velvet Fabric,Female,Skirts,Velvet,Blue,Adult,Autumn,Velvet,664,626,4.6,0,River Island,10,2/15/2024,626,2,2024
+791,791,Winter Pants with Fleece Lining,Female,Pants,Fleece Lining,Green,Adult,Winter,Fleece,665,627,4.5,0,Uniqlo,5,7/1/2024,627,7,2024
+792,792,Spring Jumpsuit with Bold Prints,Female,Jumpsuits,Bold Prints,Orange,Adult,Spring,Polyester,666,628,4.4,0,Boohoo,10,4/20/2024,628,4,2024
+793,793,Summer Blouse with Peplum Hem,Female,Blouses,Peplum Hem,Green,Teen,Summer,Cotton,667,629,4.7,0,Fashion Nova,5,9/1/2024,629,9,2024
+794,794,Autumn Coat with Fur Trim,Female,Coats,Fur Trim,Black,Adult,Autumn,Faux Fur,668,630,4.5,0,Marc Jacobs,10,1/15/2024,630,1,2024
+795,795,Winter Cardigan with Pom Poms,Female,Cardigans,Pom Poms,Grey,Adult,Winter,Wool,669,631,4.6,0,Zara,5,6/1/2024,631,6,2024
+796,796,Spring Dress with Floral Prints,Female,Dresses,Floral Prints,Pink,Teen,Spring,Cotton,670,632,4.8,0,Forever 21,10,3/15/2024,632,3,2024
+797,797,Summer Skirt with Ruffles,Female,Skirts,Ruffles,Yellow,Adult,Summer,Linen,671,633,4.5,0,H&M,5,12/1/2024,633,12,2024
+798,798,Autumn Pants with Elastic Waist,Female,Pants,Elastic Waist,Brown,Adult,Autumn,Cotton,672,634,4.3,0,Topshop,10,5/15/2024,634,5,2024
+799,799,Winter Jacket with Faux Fur Lining,Female,Jackets,Faux Fur Lining,Blue,Adult,Winter,Leather,673,635,4.4,0,Gucci,5,2/1/2024,635,2,2024
+800,800,Spring Top with Tie Neck,Female,Tops,Tie Neck,Red,Teen,Spring,Silk,674,636,4.7,0,Shein,10,4/15/2024,636,4,2024
+801,801,Summer Dress with Lace Trim,Female,Dresses,Lace Trim,White,Adult,Summer,Cotton,675,637,4.6,0,ASOS,5,11/1/2024,637,11,2024
+802,802,Autumn Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Green,Adult,Autumn,Silk,676,638,4.5,0,River Island,10,8/15/2024,638,8,2024
+803,803,Winter Coat with Faux Shearling,Female,Coats,Faux Shearling,Black,Adult,Winter,Leather,677,639,4.7,0,Prada,5,1/15/2024,639,1,2024
+804,804,Spring Jumpsuit with Bold Stripes,Female,Jumpsuits,Bold Stripes,Orange,Adult,Spring,Polyester,678,640,4.4,0,Boohoo,10,4/10/2024,640,4,2024
+805,805,Summer Top with Cut Outs,Female,Tops,Cut Outs,Pink,Teen,Summer,Cotton,679,641,4.8,0,Fashion Nova,5,9/1/2024,641,9,2024
+806,806,Winter Jacket with Faux Fur Lining,Female,Jackets,Faux Fur Lining,Grey,Adult,Winter,Leather,680,642,4.5,0,Mango,5,2/15/2024,642,2,2024
+807,807,Spring Top with Ruffles Sleeves,Female,Tops,Ruffles Sleeves,Yellow,Teen,Spring,Cotton,681,643,4.6,0,Shein,10,4/20/2024,643,4,2024
+808,808,Summer Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Summer,Cotton,682,644,4.7,0,ASOS,5,11/15/2024,644,11,2024
+809,809,Autumn Skirt with Pleats,Female,Skirts,Pleats,Brown,Adult,Autumn,Wool,683,645,4.4,0,River Island,10,7/15/2024,645,7,2024
+810,810,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Black,Adult,Winter,Leather,684,646,4.6,0,Prada,5,3/1/2024,646,3,2024
+811,811,Spring Jumpsuit with Floral Print,Female,Jumpsuits,Floral Print,Green,Adult,Spring,Polyester,685,647,4.5,0,Boohoo,10,4/25/2024,647,4,2024
+812,812,Summer Top with Cut Outs,Female,Tops,Cut Outs,Blue,Teen,Summer,Cotton,686,648,4.8,0,Fashion Nova,5,10/1/2024,648,10,2024
+813,813,Autumn Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Red,Adult,Autumn,Silk,687,649,4.3,0,River Island,10,8/10/2024,649,8,2024
+814,814,Winter Jacket with Faux Leather Lining,Female,Jackets,Faux Leather Lining,Black,Adult,Winter,Leather,688,650,4.7,0,Gucci,5,2/5/2024,650,2,2024
+815,815,Spring Top with Tie Neck,Female,Tops,Tie Neck,White,Teen,Spring,Silk,689,651,4.9,0,Shein,10,5/1/2024,651,5,2024
+816,816,Summer Dress with Lace Trim,Female,Dresses,Lace Trim,Pink,Adult,Summer,Cotton,690,652,4.6,0,ASOS,5,12/1/2024,652,12,2024
+817,817,Autumn Skirt with Pleats,Female,Skirts,Pleats,Burgundy,Adult,Autumn,Wool,691,653,4.4,0,Zara,10,9/15/2024,653,9,2024
+818,818,Winter Coat with Faux Fur Hood,Female,Coats,Faux Fur Hood,Gray,Adult,Winter,Leather,692,654,4.6,0,Versace,5,1/10/2024,654,1,2024
+819,819,Spring Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Yellow,Teen,Spring,Polyester,693,655,4.7,0,Forever 21,10,6/1/2024,655,6,2024
+820,820,Summer Jumpsuit with Tie Waist,Female,Jumpsuits,Tie Waist,Green,Adult,Summer,Linen,694,656,4.5,0,H&M,5,7/1/2024,656,7,2024
+821,821,Autumn Jacket with Faux Leather Panels,Female,Jackets,Faux Leather Panels,Brown,Adult,Autumn,Leather,695,657,4.8,0,Mango,10,8/10/2024,657,8,2024
+822,822,Winter Coat with Shearling Lining,Female,Coats,Shearling Lining,Beige,Adult,Winter,Shearling,696,658,4.6,0,Coach,5,3/1/2024,658,3,2024
+823,823,Spring Dress with Floral Print,Female,Dresses,Floral Print,Pink,Teen,Spring,Cotton,697,659,4.9,0,Topshop,10,4/1/2024,659,4,2024
+824,824,Summer Top with Ruffles,Female,Tops,Ruffles,Red,Adult,Summer,Cotton,698,660,4.5,0,Fashion Nova,5,11/1/2024,660,11,2024
+825,825,Autumn Blouse with Lace Trim,Female,Blouses,Lace Trim,White,Adult,Autumn,Silk,699,661,4.7,0,River Island,10,10/1/2024,661,10,2024
+826,826,Winter Jacket with Faux Fur Collar,Female,Jackets,Faux Fur Collar,Black,Adult,Winter,Leather,700,662,4.6,0,Prada,5,2/1/2024,662,2,2024
+827,827,Spring Jumpsuit with Tie Straps,Female,Jumpsuits,Tie Straps,Blue,Adult,Spring,Polyester,701,663,4.8,0,Boohoo,10,5/1/2024,663,5,2024
+828,828,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Yellow,Adult,Summer,Cotton,702,664,4.7,0,Forever 21,5,6/1/2024,664,6,2024
+829,829,Autumn Skirt with Pleats,Female,Skirts,Pleats,Green,Teen,Autumn,Wool,703,665,4.5,0,ASOS,10,9/1/2024,665,9,2024
+830,830,Winter Boots with Fur Lining,Female,Footwear,Fur Lining,Gray,Adult,Winter,Leather,704,666,4.8,0,Gucci,5,1/1/2024,666,1,2024
+831,831,Spring Cardigan with Lace Trim,Female,Cardigans,Lace Trim,Pink,Adult,Spring,Cotton,705,667,4.6,0,Zara,10,4/1/2024,667,4,2024
+832,832,Summer Shorts with Ruffles,Female,Shorts,Ruffles,Orange,Teen,Summer,Cotton,706,668,4.4,0,H&M,5,7/1/2024,668,7,2024
+833,833,Autumn Scarf with Fringe,Female,Scarves,Fringe,Red,Adult,Autumn,Wool,707,669,4.3,0,Mango,10,10/1/2024,669,10,2024
+834,834,Winter Hat with Faux Fur,Female,Hats,Faux Fur,Brown,Adult,Winter,Faux Fur,708,670,4.2,0,Coach,5,3/1/2024,670,3,2024
+835,835,Spring Jacket with Floral Print,Female,Jackets,Floral Print,Blue,Adult,Spring,Cotton,709,671,4.5,0,Topshop,10,5/1/2024,671,5,2024
+836,836,Summer Blouse with Bows,Female,Blouses,Bows,White,Adult,Summer,Cotton,710,672,4.6,0,Fashion Nova,5,8/1/2024,672,8,2024
+837,837,Autumn Sweater with Lace Trim,Female,Sweaters,Lace Trim,Pink,Adult,Autumn,Wool,711,673,4.4,0,River Island,10,9/1/2024,673,9,2024
+838,838,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Black,Adult,Winter,Leather,712,674,4.7,0,Prada,5,2/1/2024,674,2,2024
+839,839,Spring Dress with Floral Print,Female,Dresses,Floral Print,Yellow,Teen,Spring,Cotton,713,675,4.5,0,Forever 21,10,4/1/2024,675,4,2024
+840,840,Summer Skirt with Ruffles,Female,Skirts,Ruffles,Green,Adult,Summer,Cotton,714,676,4.4,0,Asos,5,7/1/2024,676,7,2024
+841,841,Autumn Blazer with Tweed,Female,Blazers,Tweed,Grey,Adult,Autumn,Wool,715,677,4.3,0,Gucci,10,10/1/2024,677,10,2024
+842,842,Winter Coat with Shearling Lining,Female,Coats,Shearling Lining,Brown,Adult,Winter,Leather,716,678,4.6,0,Chanel,5,3/1/2024,678,3,2024
+843,843,Spring Cardigan with Fringe,Female,Cardigans,Fringe,Purple,Adult,Spring,Cotton,717,679,4.7,0,Mango,10,5/1/2024,679,5,2024
+844,844,Summer Dress with Stripes,Female,Dresses,Stripes,Blue,Teen,Summer,Cotton,718,680,4.4,0,H&M,5,8/1/2024,680,8,2024
+845,845,Autumn Jacket with Fur Trim,Female,Jackets,Fur Trim,Black,Adult,Autumn,Leather,719,681,4.5,0,Zara,10,9/1/2024,681,9,2024
+846,846,Winter Sweater with Lace Trim,Female,Sweaters,Lace Trim,White,Adult,Winter,Wool,720,682,4.6,0,River Island,5,2/1/2024,682,2,2024
+847,847,Spring Top with Tie Dye,Female,Tops,Tie Dye,Pink,Teen,Spring,Cotton,721,683,4.4,0,Fashion Nova,10,4/1/2024,683,4,2024
+848,848,Summer Jumpsuit with Floral Print,Female,Jumpsuits,Floral Print,Red,Adult,Summer,Cotton,722,684,4.5,0,Topshop,5,7/1/2024,684,7,2024
+849,849,Autumn Skirt with Lace Overlay,Female,Skirts,Lace Overlay,Purple,Adult,Autumn,Wool,723,685,4.4,0,Asos,10,10/1/2024,685,10,2024
+850,850,Winter Blouse with Ruffles,Female,Blouses,Ruffles,Green,Adult,Winter,Satin,724,686,4.6,0,Forever 21,5,1/1/2024,686,1,2024
+851,851,Spring Skirt with Floral Print,Female,Skirts,Floral Print,Yellow,Teen,Spring,Cotton,725,687,4.4,0,H&M,10,5/1/2024,687,5,2024
+852,852,Summer Dress with Tie Dye,Female,Dresses,Tie Dye,Orange,Adult,Summer,Cotton,726,688,4.5,0,Zara,5,8/1/2024,688,8,2024
+853,853,Autumn Jacket with Fur Trim,Female,Jackets,Fur Trim,Brown,Adult,Autumn,Leather,727,689,4.6,0,Mango,10,9/1/2024,689,9,2024
+854,854,Winter Coat with Faux Fur,Female,Coats,Faux Fur,Gray,Adult,Winter,Faux Fur,728,690,4.5,0,River Island,5,2/1/2024,690,2,2024
+855,855,Spring Jacket with Lace Trim,Female,Jackets,Lace Trim,Pink,Teen,Spring,Silk,729,691,4.4,0,Fashion Nova,10,4/1/2024,691,4,2024
+856,856,Summer Top with Tie Dye,Female,Tops,Tie Dye,Blue,Adult,Summer,Cotton,730,692,4.5,0,Topshop,5,7/1/2024,692,7,2024
+857,857,Autumn Dress with Lace Overlay,Female,Dresses,Lace Overlay,Red,Adult,Autumn,Wool,731,693,4.4,0,Asos,10,10/1/2024,693,10,2024
+858,858,Winter Sweater with Pom Poms,Female,Sweaters,Pom Poms,White,Adult,Winter,Wool,732,694,4.6,0,Forever 21,5,1/1/2024,694,1,2024
+859,859,Spring Skirt with Polka Dots,Female,Skirts,Polka Dots,Black,Teen,Spring,Cotton,733,695,4.4,0,H&M,10,5/1/2024,695,5,2024
+860,860,Summer Dress with Floral Print,Female,Dresses,Floral Print,Green,Adult,Summer,Cotton,734,696,4.5,0,Zara,5,8/1/2024,696,8,2024
+861,861,Autumn Blouse with Lace Detail,Female,Blouses,Lace Detail,Brown,Adult,Autumn,Silk,735,697,4.5,0,River Island,10,11/1/2024,697,11,2024
+862,862,Winter Hat with Faux Fur,Female,Hats,Faux Fur,Black,Teen,Winter,Faux Fur,736,698,4.6,0,Fashion Nova,5,2/1/2024,698,2,2024
+863,863,Spring Scarf with Tassels,Female,Scarves,Tassels,Yellow,Adult,Spring,Cotton,737,699,4.4,0,Topshop,10,4/1/2024,699,4,2024
+864,864,Summer Shorts with Ruffles,Female,Shorts,Ruffles,Pink,Teen,Summer,Cotton,738,700,4.5,0,Asos,5,7/1/2024,700,7,2024
+865,865,Autumn Jacket with Fringe,Female,Jackets,Fringe,Blue,Adult,Autumn,Leather,739,701,4.6,0,Forever 21,10,10/1/2024,701,10,2024
+866,866,Winter Coat with Faux Shearling,Female,Coats,Faux Shearling,Gray,Adult,Winter,Faux Shearling,740,702,4.7,0,River Island,5,1/1/2024,702,1,2024
+867,867,Spring Dress with Ruffles,Female,Dresses,Ruffles,White,Teen,Spring,Cotton,741,703,4.4,0,Fashion Nova,10,5/1/2024,703,5,2024
+868,868,Summer Top with Lace,Female,Tops,Lace,Black,Adult,Summer,Silk,742,704,4.5,0,Topshop,5,8/1/2024,704,8,2024
+869,869,Autumn Blazer with Velvet,Female,Blazers,Velvet,Red,Adult,Autumn,Velvet,743,705,4.6,0,Asos,10,11/1/2024,705,11,2024
+870,870,Winter Boots with Fur Lining,Female,Boots,Fur Lining,Black,Adult,Winter,Leather,744,706,4.7,0,Forever 21,5,2/1/2024,706,2,2024
+871,871,Spring Skirt with Tie Dye,Female,Skirts,Tie Dye,Pink,Teen,Spring,Cotton,745,707,4.4,0,H&M,10,4/1/2024,707,4,2024
+872,872,Autumn Dress with Floral Print,Female,Dresses,Floral Print,Green,Adult,Autumn,Cotton,746,708,4.5,0,Zara,10,12/1/2024,708,12,2024
+873,873,Winter Jacket with Faux Fur,Female,Jackets,Faux Fur,Brown,Adult,Winter,Faux Fur,747,709,4.6,0,River Island,5,3/1/2024,709,3,2024
+874,874,Spring Trousers with Embroidery,Female,Trousers,Embroidery,Blue,Teen,Spring,Cotton,748,710,4.3,0,Fashion Nova,10,6/1/2024,710,6,2024
+875,875,Summer Blouse with Lace Trim,Female,Blouses,Lace Trim,White,Adult,Summer,Silk,749,711,4.4,0,Topshop,5,9/1/2024,711,9,2024
+876,876,Autumn Cardigan with Patchwork,Female,Cardigans,Patchwork,Gray,Adult,Autumn,Wool,750,712,4.5,0,Asos,10,10/1/2024,712,10,2024
+877,877,Winter Jumpsuit with Faux Leather,Female,Jumpsuits,Faux Leather,Black,Adult,Winter,Faux Leather,751,713,4.7,0,Forever 21,5,1/1/2024,713,1,2024
+878,878,Spring Skirt with Stripes,Female,Skirts,Stripes,Red,Teen,Spring,Cotton,752,714,4.4,0,H&M,10,5/1/2024,714,5,2024
+879,879,Summer Dress with Floral Print,Female,Dresses,Floral Print,Pink,Adult,Summer,Cotton,753,715,4.6,0,Zara,10,8/1/2024,715,8,2024
+880,880,Autumn Trousers with Velvet,Female,Trousers,Velvet,Black,Adult,Autumn,Velvet,754,716,4.5,0,River Island,5,11/1/2024,716,11,2024
+881,881,Winter Blouse with Faux Suede,Female,Blouses,Faux Suede,Brown,Adult,Winter,Faux Suede,755,717,4.6,0,Topshop,10,2/1/2024,717,2,2024
+882,882,Spring Jacket with Embroidery,Female,Jackets,Embroidery,Blue,Teen,Spring,Cotton,756,718,4.4,0,Fashion Nova,10,7/1/2024,718,7,2024
+883,883,Summer Maxi Dress with Lace,Female,Dresses,Lace,White,Adult,Summer,Cotton,757,719,4.8,1,Asos,5,6/1/2024,719,6,2024
+884,884,Autumn Skirt with Tartan,Female,Skirts,Tartan,Red,Adult,Autumn,Wool,758,720,4.5,0,Forever 21,10,10/1/2024,720,10,2024
+885,885,Winter Coat with Faux Fur,Female,Coats,Faux Fur,Black,Adult,Winter,Faux Fur,759,721,4.7,0,H&M,5,1/1/2024,721,1,2024
+886,886,Spring Blouse with Ruffles,Female,Blouses,Ruffles,Pink,Teen,Spring,Cotton,760,722,4.4,0,Zara,10,5/1/2024,722,5,2024
+887,887,Summer Tunic with Tassels,Female,Tops,Tassels,Yellow,Adult,Summer,Cotton,761,723,4.6,0,River Island,5,8/1/2024,723,8,2024
+888,888,Autumn Jacket with Patchwork,Female,Jackets,Patchwork,Green,Adult,Autumn,Wool,762,724,4.5,0,Topshop,10,11/1/2024,724,11,2024
+889,889,Winter Pants with Faux Leather,Female,Trousers,Faux Leather,Brown,Adult,Winter,Faux Leather,763,725,4.7,0,Fashion Nova,5,2/1/2024,725,2,2024
+890,890,Spring Dress with Floral Print,Female,Dresses,Floral Print,Blue,Teen,Spring,Cotton,764,726,4.4,0,Asos,10,7/1/2024,726,7,2024
+891,891,Summer Shorts with Stripes,Female,Shorts,Stripes,White,Adult,Summer,Cotton,765,727,4.6,0,Forever 21,5,6/1/2024,727,6,2024
+892,892,Autumn Sweater with Lace,Female,Sweaters,Lace,Gray,Adult,Autumn,Wool,766,728,4.5,0,H&M,10,10/1/2024,728,10,2024
+893,893,Winter Hat with Faux Fur,Female,Hats,Faux Fur,Black,Adult,Winter,Faux Fur,767,729,4.7,0,Zara,5,1/1/2024,729,1,2024
+894,894,Spring Maxi Dress with Tie Belt,Female,Dresses,Tie Belt,Red,Adult,Spring,Cotton,768,730,4.5,0,Mango,10,5/1/2024,730,5,2024
+895,895,Summer Jumpsuit with Lace Overlay,Female,Jumpsuits,Lace Overlay,Pink,Teen,Summer,Cotton,769,731,4.4,0,Zara,5,9/1/2024,731,9,2024
+896,896,Autumn Skirt with Velvet Accents,Female,Skirts,Velvet Accents,Black,Adult,Autumn,Velvet,770,732,4.6,0,River Island,10,12/1/2024,732,12,2024
+897,897,Winter Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Gray,Adult,Winter,Faux Fur,771,733,4.7,0,Fashion Nova,5,3/1/2024,733,3,2024
+898,898,Spring Jacket with Ruffle Sleeves,Female,Jackets,Ruffle Sleeves,Blue,Teen,Spring,Cotton,772,734,4.4,0,H&M,10,8/1/2024,734,8,2024
+899,899,Summer Top with Beaded Details,Female,Tops,Beaded Details,Green,Adult,Summer,Silk,773,735,4.5,0,Asos,5,7/1/2024,735,7,2024
+900,900,Autumn Dress with Lace Panels,Female,Dresses,Lace Panels,Brown,Adult,Autumn,Wool,774,736,4.6,0,Mango,10,11/1/2024,736,11,2024
+901,901,Winter Boots with Fur Lining,Female,Boots,Fur Lining,White,Adult,Winter,Leather,775,737,4.7,0,Topshop,5,2/1/2024,737,2,2024
+902,902,Spring Blouse with Floral Print,Female,Blouses,Floral Print,Pink,Teen,Spring,Cotton,776,738,4.4,0,Zara,10,6/1/2024,738,6,2024
+903,903,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Yellow,Adult,Summer,Cotton,777,739,4.5,0,Forever 21,5,9/1/2024,739,9,2024
+904,904,Autumn Jacket with Patchwork Sleeves,Female,Jackets,Patchwork Sleeves,Green,Adult,Autumn,Leather,778,740,4.6,0,River Island,10,12/1/2024,740,12,2024
+905,905,Spring Skirt with Tiered Ruffles,Female,Skirts,Tiered Ruffles,Red,Teen,Spring,Cotton,779,741,4.4,0,Uniqlo,10,7/1/2024,741,7,2024
+906,906,Summer Top with Cut-Out Details,Female,Tops,Cut-Out Details,Orange,Adult,Summer,Silk,780,742,4.5,0,Shein,5,8/1/2024,742,8,2024
+907,907,Autumn Dress with Velvet Panels,Female,Dresses,Velvet Panels,Purple,Adult,Autumn,Wool,781,743,4.6,0,H&M,10,10/1/2024,743,10,2024
+908,908,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Black,Adult,Winter,Leather,782,744,4.7,0,Zara,5,3/1/2024,744,3,2024
+909,909,Spring Pants with Flared Legs,Female,Pants,Flared Legs,Blue,Teen,Spring,Cotton,783,745,4.4,0,Mango,10,6/1/2024,745,6,2024
+910,910,Summer Shorts with Lace Trim,Female,Shorts,Lace Trim,Pink,Adult,Summer,Cotton,784,746,4.5,0,Asos,5,9/1/2024,746,9,2024
+911,911,Autumn Jumpsuit with Lace Panels,Female,Jumpsuits,Lace Panels,Grey,Adult,Autumn,Wool,785,747,4.6,0,River Island,10,11/1/2024,747,11,2024
+912,912,Winter Trousers with Fleece Lining,Female,Trousers,Fleece Lining,White,Adult,Winter,Leather,786,748,4.7,0,Topshop,5,2/1/2024,748,2,2024
+913,913,Spring Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Green,Teen,Spring,Cotton,787,749,4.4,0,Zara,10,5/1/2024,749,5,2024
+914,914,Summer Skirt with Ruffled Hem,Female,Skirts,Ruffled Hem,Yellow,Adult,Summer,Silk,788,750,4.5,0,Forever 21,5,8/1/2024,750,8,2024
+915,915,Autumn Jacket with Fringe Sleeves,Female,Jackets,Fringe Sleeves,Brown,Adult,Autumn,Leather,789,751,4.6,0,Uniqlo,10,12/1/2024,751,12,2024
+916,916,Spring Dress with Floral Print,Female,Dresses,Floral Print,Red,Teen,Spring,Cotton,790,752,4.4,0,H&M,10,5/15/2024,752,5,2024
+917,917,Summer Top with Tie Detail,Female,Tops,Tie Detail,Blue,Adult,Summer,Linen,791,753,4.5,0,Shein,5,9/5/2024,753,9,2024
+918,918,Autumn Coat with Faux Fur Trim,Female,Coats,Faux Fur Trim,Black,Adult,Autumn,Wool,792,754,4.6,0,Coach,10,11/10/2024,754,11,2024
+919,919,Winter Hat with Faux Fur Pom-Pom,Female,Hats,Faux Fur Pom-Pom,White,Teen,Winter,Acrylic,793,755,4.4,0,Abercrombie & Fitch,5,2/15/2024,755,2,2024
+920,920,Spring Jacket with Patchwork Design,Female,Jackets,Patchwork Design,Green,Adult,Spring,Denim,794,756,4.5,0,Levi's,10,6/1/2024,756,6,2024
+921,921,Summer Dress with Tie Waist,Female,Dresses,Tie Waist,Pink,Teen,Summer,Cotton,795,757,4.4,0,Victoria's Secret,5,7/15/2024,757,7,2024
+922,922,Autumn Pants with Embroidered Detail,Female,Pants,Embroidered Detail,Brown,Adult,Autumn,Suede,796,758,4.6,0,Gucci,10,10/1/2024,758,10,2024
+923,923,Winter Coat with Quilted Lining,Female,Coats,Quilted Lining,Grey,Teen,Winter,Fleece,797,759,4.5,0,Calvin Klein,5,1/15/2024,759,1,2024
+924,924,Spring Blouse with Ruffle Sleeves,Female,Blouses,Ruffle Sleeves,Yellow,Adult,Spring,Silk,798,760,4.4,0,Mango,10,4/1/2024,760,4,2024
+925,925,Summer Shorts with Lace Detail,Female,Shorts,Lace Detail,Purple,Teen,Summer,Polyester,799,761,4.5,0,Forever 21,5,8/15/2024,761,8,2024
+926,926,Autumn Skirt with Velvet Fabric,Female,Skirts,Velvet Fabric,Red,Adult,Autumn,Velvet,800,762,4.6,0,Zara,10,12/1/2024,762,12,2024
+927,927,Spring Blouse with Floral Print,Female,Blouses,Floral Print,Pink,Adult,Spring,Cotton,801,763,4.3,0,H&M,5,4/15/2024,763,4,2024
+928,928,Summer Dress with Tie Detail,Female,Dresses,Tie Detail,Blue,Teen,Summer,Linen,802,764,4.5,0,Topshop,10,7/1/2024,764,7,2024
+929,929,Autumn Jacket with Faux Leather Detail,Female,Jackets,Faux Leather Detail,Black,Adult,Autumn,Faux Leather,803,765,4.4,0,Prada,5,10/15/2024,765,10,2024
+930,930,Winter Pants with Sequin Detail,Female,Pants,Sequin Detail,Gold,Teen,Winter,Sequin,804,766,4.6,0,Versace,10,1/1/2024,766,1,2024
+931,931,Spring Skirt with Ruffle Hem,Female,Skirts,Ruffle Hem,Green,Adult,Spring,Silk,805,767,4.2,0,Michael Kors,5,3/15/2024,767,3,2024
+932,932,Summer Top with Tie Neck,Female,Tops,Tie Neck,White,Teen,Summer,Cotton,806,768,4.5,0,American Eagle,10,6/15/2024,768,6,2024
+933,933,Autumn Shorts with Lace Trim,Female,Shorts,Lace Trim,Pink,Adult,Autumn,Satin,807,769,4.3,0,ASOS,5,9/15/2024,769,9,2024
+934,934,Winter Coat with Fur Hood,Female,Coats,Fur Hood,Brown,Teen,Winter,Wool,808,770,4.4,0,Gucci,10,2/15/2024,770,2,2024
+935,935,Spring Blouse with Puff Sleeves,Female,Blouses,Puff Sleeves,Yellow,Adult,Spring,Cotton,809,771,4.6,0,Zara,5,4/1/2024,771,4,2024
+936,936,Summer Dress with Belted Waist,Female,Dresses,Belted Waist,Red,Teen,Summer,Cotton,810,772,4.5,0,Mango,10,8/1/2024,772,8,2024
+937,937,Autumn Jacket with Fringe Detail,Female,Jackets,Fringe Detail,Black,Adult,Autumn,Leather,811,773,4.4,0,Chanel,5,10/15/2024,773,10,2024
+938,938,Spring Dress with Floral Print,Female,Dresses,Floral Print,Blue,Adult,Spring,Cotton,812,774,4.3,0,Michael Kors,5,4/15/2024,774,4,2024
+939,939,Summer Top with Tie-Dye Pattern,Female,Tops,Tie-Dye,Pink,Teen,Summer,Cotton,813,775,4.6,0,American Eagle,10,7/15/2024,775,7,2024
+940,940,Autumn Skirt with Lace Overlay,Female,Skirts,Lace Overlay,Grey,Adult,Autumn,Satin,814,776,4.4,0,ASOS,5,11/15/2024,776,11,2024
+941,941,Winter Coat with Faux Fur Lining,Female,Coats,Faux Fur Lining,Black,Teen,Winter,Wool,815,777,4.5,0,Gucci,10,3/15/2024,777,3,2024
+942,942,Spring Jumpsuit with Ruffled Sleeves,Female,Jumpsuits,Ruffled Sleeves,Green,Adult,Spring,Silk,816,778,4.2,0,Zara,5,5/15/2024,778,5,2024
+943,943,Summer Shorts with Tie-Dye Pattern,Female,Shorts,Tie-Dye,Yellow,Teen,Summer,Cotton,817,779,4.7,0,Mango,10,6/15/2024,779,6,2024
+944,944,Autumn Dress with Lace Detail,Female,Dresses,Lace Detail,Red,Adult,Autumn,Satin,818,780,4.4,0,Chanel,5,10/15/2024,780,10,2024
+945,945,Winter Jacket with Fleece Lining,Female,Jackets,Fleece Lining,Blue,Teen,Winter,Wool,819,781,4.3,0,Michael Kors,10,2/15/2024,781,2,2024
+946,946,Spring Skirt with Floral Print,Female,Skirts,Floral Print,Pink,Adult,Spring,Cotton,820,782,4.5,0,ASOS,5,4/15/2024,782,4,2024
+947,947,Summer Blouse with Tie-Dye Pattern,Female,Blouses,Tie-Dye,Green,Teen,Summer,Cotton,821,783,4.6,0,American Eagle,10,7/15/2024,783,7,2024
+948,948,Autumn Top with Lace Trim,Female,Tops,Lace Trim,Grey,Adult,Autumn,Satin,822,784,4.4,0,Zara,5,11/15/2024,784,11,2024
+949,949,Spring Jumpsuit with Floral Pattern,Female,Jumpsuits,Floral Pattern,Yellow,Adult,Spring,Cotton,823,785,4.3,0,ASOS,5,5/20/2024,785,5,2024
+950,950,Summer Dress with Striped Pattern,Female,Dresses,Striped Pattern,Blue,Teen,Summer,Cotton,824,786,4.6,0,Mango,10,6/20/2024,786,6,2024
+951,951,Autumn Jacket with Faux Leather Detail,Female,Jackets,Faux Leather Detail,Brown,Adult,Autumn,Polyester,825,787,4.2,0,Chanel,5,10/20/2024,787,10,2024
+952,952,Winter Skirt with Fleece Lining,Female,Skirts,Fleece Lining,Grey,Teen,Winter,Wool,826,788,4.5,0,Michael Kors,10,2/20/2024,788,2,2024
+953,953,Spring Blouse with Floral Embroidery,Female,Blouses,Floral Embroidery,Pink,Adult,Spring,Silk,827,789,4.4,0,ASOS,5,4/20/2024,789,4,2024
+954,954,Summer Top with Tie-Dye Pattern,Female,Tops,Tie-Dye Pattern,Green,Teen,Summer,Cotton,828,790,4.6,0,American Eagle,10,7/20/2024,790,7,2024
+955,955,Autumn Dress with Lace Overlay,Female,Dresses,Lace Overlay,Red,Adult,Autumn,Satin,829,791,4.3,0,Zara,5,11/20/2024,791,11,2024
+956,956,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Black,Adult,Winter,Polyester,830,792,4.2,0,Michael Kors,10,3/20/2024,792,3,2024
+957,957,Spring Shorts with Floral Print,Female,Shorts,Floral Print,Blue,Teen,Spring,Cotton,831,793,4.5,0,Mango,5,5/25/2024,793,5,2024
+958,958,Summer Skirt with Striped Pattern,Female,Skirts,Striped Pattern,White,Adult,Summer,Cotton,832,794,4.6,0,ASOS,10,6/25/2024,794,6,2024
+959,959,Autumn Top with Lace Detail,Female,Tops,Lace Detail,Grey,Adult,Autumn,Satin,833,795,4.3,0,Zara,5,10/25/2024,795,10,2024
+960,960,Spring Blouse with Geometric Print,Female,Blouses,Geometric Print,Yellow,Teen,Spring,Cotton,834,796,4.5,0,H&M,10,4/15/2024,796,4,2024
+961,961,Summer Dress with Tie-Dye Pattern,Female,Dresses,Tie-Dye Pattern,Purple,Adult,Summer,Linen,835,797,4.4,0,Free People,5,7/15/2024,797,7,2024
+962,962,Autumn Coat with Faux Shearling Lining,Female,Coats,Faux Shearling Lining,Brown,Adult,Autumn,Wool,836,798,4.3,0,Coach,10,11/15/2024,798,11,2024
+963,963,Winter Pants with Faux Leather Panels,Female,Pants,Faux Leather Panels,Black,Adult,Winter,Polyester,837,799,4.2,0,Marc Jacobs,5,3/15/2024,799,3,2024
+964,964,Spring Skirt with Floral Lace Overlay,Female,Skirts,Floral Lace Overlay,Pink,Teen,Spring,Cotton,838,800,4.6,0,Forever 21,10,5/15/2024,800,5,2024
+965,965,Summer Top with Ruffled Sleeves,Female,Tops,Ruffled Sleeves,White,Adult,Summer,Cotton,839,801,4.4,0,ASOS,5,6/15/2024,801,6,2024
+966,966,Autumn Jacket with Faux Fur Trim,Female,Jackets,Faux Fur Trim,Red,Adult,Autumn,Faux Leather,840,802,4.3,0,Zara,10,10/15/2024,802,10,2024
+967,967,Winter Jumpsuit with Sequin Detail,Female,Jumpsuits,Sequin Detail,Silver,Adult,Winter,Polyester,841,803,4.2,0,Ralph Lauren,5,2/15/2024,803,2,2024
+968,968,Spring Blouse with Striped Sleeves,Female,Blouses,Striped Sleeves,Blue,Adult,Spring,Silk,842,804,4.5,0,J.Crew,10,4/20/2024,804,4,2024
+969,969,Summer Dress with Tie-Dye Pattern,Female,Dresses,Tie-Dye Pattern,Green,Teen,Summer,Cotton,843,805,4.4,0,Urban Outfitters,5,7/20/2024,805,7,2024
+970,970,Autumn Coat with Faux Shearling Lining,Female,Coats,Faux Shearling Lining,Brown,Adult,Autumn,Wool,844,806,4.3,0,Michael Kors,10,11/20/2024,806,11,2024
+971,971,Spring Jumpsuit with Paisley Print,Female,Jumpsuits,Paisley Print,Yellow,Adult,Spring,Polyester,845,807,4.7,0,Anthropologie,5,4/25/2024,807,4,2024
+972,972,Summer Skirt with Tassel Detail,Female,Skirts,Tassel Detail,Pink,Teen,Summer,Cotton,846,808,4.5,0,H&M,10,6/25/2024,808,6,2024
+973,973,Autumn Blouse with Lace Trim,Female,Blouses,Lace Trim,Red,Adult,Autumn,Silk,847,809,4.4,0,Reformation,5,10/25/2024,809,10,2024
+974,974,Winter Coat with Faux Fur Hood,Female,Coats,Faux Fur Hood,Black,Adult,Winter,Wool,848,810,4.6,0,Marc Jacobs,10,2/25/2024,810,2,2024
+975,975,Spring Dress with Ruffle Hem,Female,Dresses,Ruffle Hem,Blue,Adult,Spring,Cotton,849,811,4.3,0,Free People,5,5/25/2024,811,5,2024
+976,976,Summer Top with Cut-Out Detail,Female,Tops,Cut-Out Detail,White,Teen,Summer,Cotton,850,812,4.6,0,ASOS,10,7/25/2024,812,7,2024
+977,977,Autumn Pants with Embroidery,Female,Pants,Embroidery,Grey,Adult,Autumn,Wool,851,813,4.5,0,Zara,5,11/25/2024,813,11,2024
+978,978,Winter Jacket with Fleece Lining,Female,Jackets,Fleece Lining,Navy,Adult,Winter,Leather,852,814,4.2,0,The North Face,10,3/25/2024,814,3,2024
+979,979,Spring Blouse with Peasant Sleeves,Female,Blouses,Peasant Sleeves,Green,Adult,Spring,Silk,853,815,4.4,0,J.Crew,5,4/25/2024,815,4,2024
+980,980,Summer Skirt with Tie-Dye Pattern,Female,Skirts,Tie-Dye Pattern,Purple,Teen,Summer,Cotton,854,816,4.5,0,Urban Outfitters,10,6/25/2024,816,6,2024
+981,981,Autumn Jacket with Faux Leather Detail,Female,Jackets,Faux Leather Detail,Black,Adult,Autumn,Faux Leather,855,817,4.6,0,Ralph Lauren,5,10/25/2024,817,10,2024
+982,982,Spring Jumpsuit with Lace Trim,Female,Jumpsuits,Lace Trim,Pink,Adult,Spring,Silk,856,818,4.7,0,Mango,10,5/25/2024,818,5,2024
+983,983,Summer Dress with Floral Pattern,Female,Dresses,Floral Pattern,Red,Teen,Summer,Cotton,857,819,4.4,0,Forever 21,5,7/25/2024,819,7,2024
+984,984,Autumn Top with Patchwork Detail,Female,Tops,Patchwork Detail,Brown,Adult,Autumn,Wool,858,820,4.5,0,Topshop,10,11/25/2024,820,11,2024
+985,985,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Grey,Adult,Winter,Faux Fur,859,821,4.3,0,H&M,5,2/25/2024,821,2,2024
+986,986,Spring Skirt with Pleats,Female,Skirts,Pleats,Yellow,Adult,Spring,Silk,860,822,4.6,0,Zara,10,4/25/2024,822,4,2024
+987,987,Summer Swimsuit with High-Waisted Briefs,Female,Swimsuits,High-Waisted Briefs,Black,Teen,Summer,Lycra,861,823,4.5,0,ASOS,5,6/25/2024,823,6,2024
+988,988,Autumn Pants with Fringe Detail,Female,Pants,Fringe Detail,Green,Adult,Autumn,Leather,862,824,4.4,0,Marc Jacobs,10,10/25/2024,824,10,2024
+989,989,Winter Cardigan with Cable Knit Detail,Female,Cardigans,Cable Knit Detail,White,Adult,Winter,Wool,863,825,4.7,0,Calvin Klein,5,3/25/2024,825,3,2024
+990,990,Spring Blouse with Ruffle Sleeves,Female,Blouses,Ruffle Sleeves,Blue,Adult,Spring,Silk,864,826,4.6,0,Free People,10,5/25/2024,826,5,2024
+991,991,Summer Dress with Tie-Dye Pattern,Female,Dresses,Tie-Dye Pattern,Pink,Teen,Summer,Cotton,865,827,4.5,0,Urban Outfitters,5,7/25/2024,827,7,2024
+992,992,Autumn Jacket with Fur Lining,Female,Jackets,Fur Lining,Brown,Adult,Autumn,Leather,866,828,4.8,0,Gucci,10,11/25/2024,828,11,2024
+993,993,Winter Coat with Faux Fur Hood,Female,Coats,Faux Fur Hood,Red,Adult,Winter,Wool,867,829,4.7,0,Prada,5,2/25/2024,829,2,2024
+994,994,Spring Jumpsuit with Floral Pattern,Female,Jumpsuits,Floral Pattern,Pink,Adult,Spring,Cotton,868,830,4.6,0,Mango,10,4/25/2024,830,4,2024
+995,995,Summer Skirt with Tassels,Female,Skirts,Tassels,Green,Teen,Summer,Polyester,869,831,4.5,0,H&M,5,6/25/2024,831,6,2024
+996,996,Autumn Top with Lace Detail,Female,Tops,Lace Detail,Black,Adult,Autumn,Silk,870,832,4.4,0,River Island,10,10/25/2024,832,10,2024
+997,997,Winter Pants with Velvet Detail,Female,Pants,Velvet Detail,Purple,Adult,Winter,Velvet,871,833,4.7,0,Topshop,5,3/25/2024,833,3,2024
+998,998,Spring Dress with Stripes,Female,Dresses,Stripes,Blue,Teen,Spring,Cotton,872,834,4.5,0,Zara,10,5/25/2024,834,5,2024
+999,999,Summer Blouse with Ruffles,Female,Blouses,Ruffles,White,Adult,Summer,Silk,873,835,4.6,0,Reiss,5,7/25/2024,835,7,2024
+1000,1000,Autumn Jacket with Shearling Lining,Female,Jackets,Shearling Lining,Brown,Adult,Autumn,Leather,874,836,4.8,0,Coach,10,11/25/2024,836,11,2024
+1001,1001,Winter Coat with Faux Fur Collar,Female,Coats,Faux Fur Collar,Grey,Adult,Winter,Wool,875,837,4.7,0,Burberry,5,2/25/2024,837,2,2024
+1002,1002,Spring Skirt with Lace Overlay,Female,Skirts,Lace Overlay,Beige,Adult,Spring,Satin,876,838,4.6,0,Chanel,10,4/25/2024,838,4,2024
+1003,1003,Summer Dress with Tie-Dye Pattern,Female,Dresses,Tie-Dye Pattern,Orange,Teen,Summer,Cotton,877,839,4.5,0,Forever 21,5,6/25/2024,839,6,2024
+1004,1004,Autumn Blouse with Lace Sleeves,Female,Blouses,Lace Sleeves,Maroon,Adult,Autumn,Cotton,878,840,4.6,0,H&M,5,10/25/2024,840,10,2024
+1005,1005,Spring Jacket with Floral Print,Female,Jackets,Floral Print,Pink,Teen,Spring,Polyester,879,841,4.5,0,Mango,10,5/25/2024,841,5,2024
+1006,1006,Summer Skirt with Tassel Detail,Female,Skirts,Tassel Detail,Green,Adult,Summer,Cotton,880,842,4.7,0,ASOS,5,7/25/2024,842,7,2024
